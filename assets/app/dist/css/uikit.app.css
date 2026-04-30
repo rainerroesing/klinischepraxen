@@ -1,4 +1,4 @@
-/*! UIkit 3.15.24 | https://www.getuikit.com | (c) 2014 - 2023 YOOtheme | MIT License */
+/*! UIkit 3.15.24 | https://www.getuikit.com | (c) 2014 - 2026 YOOtheme | MIT License */
 /* ========================================================================
    Component: Base
  ========================================================================== */
@@ -13176,9 +13176,6 @@ p {
   height: 100%;
   position: fixed !important;
 }
-.termsfeed-com---nb-interstitial-overlay {
-  background: rgba(255, 255, 255, 0.7) !important;
-}
 .termsfeed-com---palette-light.termsfeed-com---nb {
   display: flex;
   width: 100%;
@@ -13186,11 +13183,6 @@ p {
   justify-content: center;
   align-items: center;
   background-color: #f2f2f270 !important;
-}
-.termsfeed-com---nb-interstitial {
-  right: 0!important;
-  top: 0!important;
-  left: 0!important;
 }
 .cc-nb-main-container {
   position: absolute;
@@ -13203,31 +13195,6 @@ p {
 }
 body.noscroll {
   overflow: hidden;
-}
-#toTop {
-  display: block;
-  position: fixed;
-  bottom: -50px;
-  left: 10px;
-  z-index: 99;
-  font-size: 16px;
-  border: none;
-  outline: none;
-  background-color: #a01223;
-  color: white;
-  cursor: pointer;
-  padding: 15px;
-  border-radius: 4px;
-  transition: all 0.6s;
-  opacity: 0;
-}
-#toTop:hover {
-  background-color: #7f0d1b;
-}
-#toTop.is-visible {
-  display: block;
-  opacity: 1;
-  bottom: 10px;
 }
 #ablauf-checkup {
   max-width: 400px;
@@ -13249,6 +13216,7 @@ body.noscroll {
   font-weight: 100;
 }
 .checkup-table {
+  max-width: 440px;
   border-bottom: 20px solid #eceff1;
 }
 .checkup-table p {
@@ -14132,4 +14100,89 @@ html.is-animating .transition-fade {
 /* Audio player */
 .tm-audio {
   width: 100%;
+}
+/* Cookie banner and toTop additions from backup build */
+.termsfeed-com---nb-interstitial-overlay {
+  background: rgba(255, 255, 255, 0.7) !important;
+}
+.termsfeed-com---nb-interstitial {
+  right: 0 !important;
+  top: 0 !important;
+  left: 0 !important;
+}
+#toTop {
+  display: block;
+  position: fixed;
+  bottom: -50px;
+  left: 10px;
+  z-index: 99;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  background-color: #a01223;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+  transition: all 0.6s;
+  opacity: 0;
+}
+#toTop:hover {
+  background-color: #7f0d1b;
+}
+#toTop.is-visible {
+  display: block;
+  opacity: 1;
+  bottom: 10px;
+}
+/* Form Customization */
+/* Punkte bei Asterix raus */
+abbr[title] {
+  text-decoration: none;
+  border-bottom: 0;
+}
+/* Feldstyles */
+.uk-input,
+.uk-select,
+.uk-textarea,
+.uk-checkbox {
+  border: 2px solid #7a879d;
+}
+.uk-input:focus,
+.uk-select:focus,
+.uk-textarea:focus {
+  border: 2px solid #42557b;
+}
+.uk-checkbox {
+  width: 24px;
+  height: 24px;
+  margin-right: 6px;
+}
+/* Placeholder mit mehr Kontrast */
+/* Placeholder-Kontrast */
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+  color: #5e667d !important;
+  font-weight: 500 !important;
+  opacity: 1;
+}
+input::-moz-placeholder,
+textarea::-moz-placeholder {
+  color: #5e667d !important;
+  font-weight: 500 !important;
+  opacity: 1;
+}
+input:-ms-input-placeholder,
+textarea:-ms-input-placeholder {
+  color: #5e667d !important;
+  font-weight: 500 !important;
+}
+input::placeholder,
+textarea::placeholder {
+  color: #5e667d !important;
+  opacity: 1;
+  font-weight: 500 !important;
+}
+.uk-textarea {
+  font-size: 14px;
 }

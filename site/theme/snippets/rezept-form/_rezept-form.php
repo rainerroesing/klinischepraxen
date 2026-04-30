@@ -33,15 +33,11 @@
 
     <?php // REZEPT 1 ?>
     <div id="r1" class="uk-grid-small uk-width-1-1@s" uk-grid style="padding-left:0px; margin-left:0;">
-      <div class="uk-width-1-6@s">
-        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_a" name="r_an_a" min="1" value="<?= esc($data['r_an_a'] ?? '') ?>">
+      <div class="uk-width-1-6@s">        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_a" name="r_an_a" min="1" value="<?= esc($data['r_an_a'] ?? '') ?>">
       </div>
-      <div class="uk-width-expand@s">
-        <label for="r_med_a"></label>
-        <input class="uk-input" type="text" placeholder="Namen des Medikamentes eingeben ..." aria-label="Medikament" id="r_med_a" name="r_med_a" value="<?= esc($data['r_med_a'] ?? '') ?>">
+      <div class="uk-width-expand@s">        <input class="uk-input" type="text" placeholder="Namen des Medikamentes eingeben ..." aria-label="Medikament" id="r_med_a" name="r_med_a" value="<?= esc($data['r_med_a'] ?? '') ?>">
       </div>
-      <div class="uk-width-1-5@s">
-        <select class="uk-select" name="select_a" value="<?= esc($data['select_a'] ?? '') ?>">
+      <div class="uk-width-1-5@s">        <select id="select_a" class="uk-select" name="select_a" value="<?= esc($data['select_a'] ?? '') ?>">
           <option value="" selected>Pack.Größe</option>
           <option value="N1">N1</option>
           <option value="N2">N2</option>

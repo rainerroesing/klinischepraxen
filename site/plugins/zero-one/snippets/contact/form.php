@@ -17,21 +17,21 @@
         <label for="name">
         <?= $site->labelName()->html() ?> <abbr title="required">*</abbr>
         </label>
-        <input class="uk-input" type="text" id="name" name="name" value="<?= esc($data['name'] ?? '') ?>" required style="background: #ebebeb;">
+        <input class="uk-input" type="text" id="name" name="name" placeholder="Ihr Name" value="<?= esc($data['name'] ?? '') ?>" required>
         <?= isset($alert['name']) ? '<span class="uk-text-danger">' . html($alert['name']) . '</span>' : '' ?>
     </div>
     <div class="uk-width-1-2@s">
         <label for="email">
         <?= $site->labelEmail()->html() ?> <abbr title="required">*</abbr>
         </label>
-        <input class="uk-input" type="email" id="email" name="email" value="<?= esc($data['email'] ?? '') ?>" required style="background: #ebebeb;">
+        <input class="uk-input" type="email" id="email" name="email" placeholder="Ihre E-mail" value="<?= esc($data['email'] ?? '') ?>" required>
         <?= isset($alert['email']) ? '<span class="uk-text-danger">' . html($alert['email']) . '</span>' : '' ?>
     </div>
     <div class="uk-width-1-1">
         <label for="text">
         <?= $site->labelMessage()->html() ?> <abbr title="required">*</abbr>
         </label>
-        <textarea class="uk-textarea uk-height-small" id="text" name="text" required style="background: #ebebeb;"><?= esc($data['text']?? '') ?></textarea>
+        <textarea class="uk-textarea uk-height-small" id="text" name="text" placeholder="Ihre Nachricht" required><?= esc($data['text']?? '') ?></textarea>
         <?= isset($alert['text']) ? '<span class="uk-text-danger">' . html($alert['text']) . '</span>' : '' ?>
     </div>
     <div class="uk-width-1-1">

@@ -10,7 +10,7 @@ Twitteruser:
 
 ----
 
-Email: info@klinische-praxen.de
+Email: mail@rainerroesing.de
 
 ----
 
@@ -727,7 +727,7 @@ Labelemailsubject: Nachricht aus Kontakt-Formular
 
 ----
 
-Labelformprivacy: Ich stimme den <a href="/datenschutz"><strong>Datenschutz-Richtlinien</strong></a> zu.
+Labelformprivacy: Ich stimme den <a href="/datenschutz" target="_blank" rel="noopener noreferrer"><strong>Datenschutz-Richtlinien</strong></a> zu.
 
 ----
 

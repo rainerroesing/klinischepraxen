@@ -15,30 +15,40 @@
     </div>
 
     <?php // Name und Email ?>
-    <div class="uk-width-1-2@s">
+    <div class="uk-width-2-5@s">
         <label for="name">
         <?= $site->labelName()->html() ?> <abbr title="Pflichfeld">*</abbr>
         </label>
-        <input class="uk-input" type="text" id="name" name="name" value="<?= esc($data['name'] ?? '') ?>" required>
+        <input class="uk-input" type="text" id="name" name="name" placeholder="Ihr Name" value="<?= esc($data['name'] ?? '') ?>" required>
         <?= isset($alert['name']) ? '<span class="uk-text-danger">' . html($alert['name']) . '</span>' : '' ?>
     </div>
-    <div class="uk-width-1-2@s">
+    <div class="uk-width-2-5@s">
         <label for="email">
           <?= $site->labelEmail()->html() ?> <abbr title="Pflichtfeld">*</abbr>
         </label>
-        <input class="uk-input" type="email" id="email" name="email" value="<?= esc($data['email'] ?? '') ?>" required>
+        <input class="uk-input" type="email" id="email" name="email" placeholder="Ihre E-mail" value="<?= esc($data['email'] ?? '') ?>" required>
         <?= isset($alert['email']) ? '<span class="uk-text-danger">' . html($alert['email']) . '</span>' : '' ?>
+    </div>
+    <div class="uk-width-1-5@s">
+        <label for="geburtsdatum">
+          Geburtsdatum <abbr title="Pflichtfeld">*</abbr>
+        </label>
+        <input class="uk-input" type="date" id="geburtsdatum" name="geburtsdatum" value="<?= esc($data['geburtsdatum'] ?? '') ?>" required>
+        <?= isset($alert['geburtsdatum']) ? '<span class="uk-text-danger">' . html($alert['geburtsdatum']) . '</span>' : '' ?>
     </div>
     <?php // end ?>
 
+    <div class="uk-width-1-1@s">
+      <p class="uk-margin-small-bottom"><strong>Ihr Rezeptwunsch</strong></p>
+    </div>
     <?php // REZEPT 1 ?>
-    <div id="r1" class="uk-grid-small uk-width-1-1@s" uk-grid style="padding-left:0px; margin-left:0;">
-      <div class="uk-width-1-6@s">
-        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_a" name="r_an_a" min="1" value="<?= esc($data['r_an_a'] ?? '') ?>">
-      </div>
+    <div id="r1" class="uk-grid-small uk-width-1-1@s" uk-grid style="padding-left:0px;margin-top:0; margin-left:0;">
       <div class="uk-width-expand@s">
         <label for="r_med_a"></label>
         <input class="uk-input" type="text" placeholder="Namen des Medikamentes eingeben ..." aria-label="Medikament" id="r_med_a" name="r_med_a" value="<?= esc($data['r_med_a'] ?? '') ?>">
+      </div>
+      <div class="uk-width-1-6@s">
+        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_a" name="r_an_a" min="1" value="<?= esc($data['r_an_a'] ?? '') ?>">
       </div>
       <div class="uk-width-1-5@s">
         <select class="uk-select" name="select_a" value="<?= esc($data['select_a'] ?? '') ?>">
@@ -50,15 +60,14 @@
       </div>
       <a onclick="rezept2in(event)" class="uk-margin-small" uk-icon="icon: plus-circle; ratio: 1.5" uk-tooltip="Weiteres Rezept"></a>
     </div>
-
     <?php // REZEPT 2 ?>
     <div id="r2" class="uk-grid-small uk-width-1-1@s uk-hidden" uk-grid style="padding-left:0px; margin-left:0;">
-      <div class="uk-width-1-6@s">
-        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_b" name="r_an_b" min="1" value="<?= esc($data['r_an_b'] ?? '') ?>">
-      </div>
       <div class="uk-width-expand@s">
         <label for="r_med_b"></label>
         <input class="uk-input" type="text" placeholder="Namen des Medikamentes eingeben ..." aria-label="Medikament" id="r_med_b" name="r_med_b" value="<?= esc($data['r_med_b'] ?? '') ?>">
+      </div>
+      <div class="uk-width-1-6@s">
+        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_b" name="r_an_b" min="1" value="<?= esc($data['r_an_b'] ?? '') ?>">
       </div>
       <div class="uk-width-1-5@s">
         <select class="uk-select" id="select_b" name="select_b" value="<?= esc($data['select_b'] ?? '') ?>">
@@ -74,12 +83,12 @@
 
     <?php // REZEPT 3 ?>
     <div id="r3" class="uk-grid-small uk-width-1-1@s uk-hidden" uk-grid style="padding-left:0px; margin-left:0;">
-      <div class="uk-width-1-6@s">
-        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_c" name="r_an_c" min="1" value="<?= esc($data['r_an_c'] ?? '') ?>">
-      </div>
       <div class="uk-width-expand@s">
         <label for="r_med_c"></label>
         <input class="uk-input" type="text" placeholder="Namen des Medikamentes eingeben ..." aria-label="Medikament" id="r_med_c" name="r_med_c" value="<?= esc($data['r_med_c'] ?? '') ?>">
+      </div>
+      <div class="uk-width-1-6@s">
+        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_c" name="r_an_c" min="1" value="<?= esc($data['r_an_c'] ?? '') ?>">
       </div>
       <div class="uk-width-1-5@s">
         <select class="uk-select" id="select_c" name="select_c" value="<?= esc($data['select_c'] ?? '') ?>">
@@ -95,12 +104,12 @@
 
     <?php // REZEPT 4 ?>
     <div id="r4" class="uk-grid-small uk-width-1-1@s uk-hidden" uk-grid style="padding-left:0px; margin-left:0;">
-      <div class="uk-width-1-6@s">
-        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_d" name="r_an_d" min="1" value="<?= esc($data['r_an_d'] ?? '') ?>">
-      </div>
       <div class="uk-width-expand@s">
         <label for="r_med_d"></label>
         <input class="uk-input" type="text" placeholder="Namen des Medikamentes eingeben ..." aria-label="Medikament" id="r_med_d" name="r_med_d" value="<?= esc($data['r_med_d'] ?? '') ?>">
+      </div>
+      <div class="uk-width-1-6@s">
+        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_d" name="r_an_d" min="1" value="<?= esc($data['r_an_d'] ?? '') ?>">
       </div>
       <div class="uk-width-1-5@s">
         <select id="select_d" class="uk-select" name="select_d" value="<?= esc($data['select_d'] ?? '') ?>">
@@ -116,12 +125,12 @@
 
     <?php // REZEPT 5 ?>
     <div id="r5" class="uk-grid-small uk-width-1-1@s uk-hidden" uk-grid style="padding-left:0px; margin-left:0;">
-      <div class="uk-width-1-6@s">
-        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_e" name="r_an_e" min="1" value="<?= esc($data['r_an_e'] ?? '') ?>">
-      </div>
       <div class="uk-width-expand@s">
         <label for="r_med_e"></label>
         <input class="uk-input" type="text" placeholder="Namen des Medikamentes eingeben ..." aria-label="Medikament" id="r_med_e" name="r_med_e" value="<?= esc($data['r_med_e'] ?? '') ?>">
+      </div>
+      <div class="uk-width-1-6@s">
+        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_e" name="r_an_e" min="1" value="<?= esc($data['r_an_e'] ?? '') ?>">
       </div>
       <div class="uk-width-1-5@s">
         <select id="select_e" class="uk-select" name="select_e" value="<?= esc($data['select_e'] ?? '') ?>">
@@ -134,15 +143,15 @@
       <a onclick="rezept6in(event)" class="uk-margin-small" uk-icon="icon: plus-circle; ratio: 1.5" uk-tooltip="Weiteres Rezept"></a>
       <a onclick="rezept5out()" class="uk-margin-small" uk-icon="icon: minus-circle; ratio: 1.5" uk-tooltip="Rezept entfernen"></a>
     </div>
-    
+
     <?php // REZEPT 6 ?>
     <div id="r6" class="uk-grid-small uk-width-1-1@s uk-hidden" uk-grid style="padding-left:0px; margin-left:0;">
-      <div class="uk-width-1-6@s">
-        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_f" name="r_an_f" min="1" value="<?= esc($data['r_an_f'] ?? '') ?>">
-      </div>
       <div class="uk-width-expand@s">
         <label for="r_med_f"></label>
         <input class="uk-input" type="text" placeholder="Namen des Medikamentes eingeben ..." aria-label="Medikament" id="r_med_f" name="r_med_f" value="<?= esc($data['r_med_f'] ?? '') ?>">
+      </div>
+      <div class="uk-width-1-6@s">
+        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_f" name="r_an_f" min="1" value="<?= esc($data['r_an_f'] ?? '') ?>">
       </div>
       <div class="uk-width-1-5@s">
         <select id="select_f" class="uk-select" name="select_f" value="<?= esc($data['select_f'] ?? '') ?>">
@@ -158,12 +167,12 @@
 
     <?php // REZEPT 7 ?>
     <div id="r7" class="uk-grid-small uk-width-1-1@s uk-hidden" uk-grid style="padding-left:0px; margin-left:0;">
-      <div class="uk-width-1-6@s">
-        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_g" name="r_an_g" min="1" value="<?= esc($data['r_an_g'] ?? '') ?>">
-      </div>
       <div class="uk-width-expand@s">
         <label for="r_med_g"></label>
         <input class="uk-input" type="text" placeholder="Namen des Medikamentes eingeben ..." aria-label="Medikament" id="r_med_g" name="r_med_g" value="<?= esc($data['r_med_g'] ?? '') ?>">
+      </div>
+      <div class="uk-width-1-6@s">
+        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_g" name="r_an_g" min="1" value="<?= esc($data['r_an_g'] ?? '') ?>">
       </div>
       <div class="uk-width-1-5@s">
         <select id="select_g" class="uk-select" name="select_g" value="<?= esc($data['select_g'] ?? '') ?>">
@@ -179,12 +188,12 @@
 
     <?php // REZEPT 8 ?>
     <div id="r8" class="uk-grid-small uk-width-1-1@s uk-hidden" uk-grid style="padding-left:0px; margin-left:0;">
-      <div class="uk-width-1-6@s">
-        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_h" name="r_an_h" min="1" value="<?= esc($data['r_an_h'] ?? '') ?>">
-      </div>
       <div class="uk-width-expand@s">
         <label for="r_med_h"></label>
         <input class="uk-input" type="text" placeholder="Namen des Medikamentes eingeben ..." aria-label="Medikament" id="r_med_h" name="r_med_h" value="<?= esc($data['r_med_h'] ?? '') ?>">
+      </div>
+      <div class="uk-width-1-6@s">
+        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_h" name="r_an_h" min="1" value="<?= esc($data['r_an_h'] ?? '') ?>">
       </div>
       <div class="uk-width-1-5@s">
         <select id="select_h" class="uk-select" name="select_h" value="<?= esc($data['select_h'] ?? '') ?>">
@@ -200,12 +209,12 @@
 
     <?php // REZEPT 9 ?>
     <div id="r9" class="uk-grid-small uk-width-1-1@s uk-hidden" uk-grid style="padding-left:0px; margin-left:0;">
-      <div class="uk-width-1-6@s">
-        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_i" name="r_an_i" min="1" value="<?= esc($data['r_an_i'] ?? '') ?>">
-      </div>
       <div class="uk-width-expand@s">
         <label for="r_med_i"></label>
         <input class="uk-input" type="text" placeholder="Namen des Medikamentes eingeben ..." aria-label="Medikament" id="r_med_i" name="r_med_i" value="<?= esc($data['r_med_i'] ?? '') ?>">
+      </div>
+      <div class="uk-width-1-6@s">
+        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_i" name="r_an_i" min="1" value="<?= esc($data['r_an_i'] ?? '') ?>">
       </div>
       <div class="uk-width-1-5@s">
         <select id="select_i" class="uk-select" name="select_i" value="<?= esc($data['select_i'] ?? '') ?>">
@@ -221,12 +230,12 @@
 
     <?php // REZEPT 10 ?>
     <div id="r10" class="uk-grid-small uk-width-1-1@s uk-hidden" uk-grid style="padding-left:0px; margin-left:0;">
-      <div class="uk-width-1-6@s">
-        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_j" name="r_an_j" min="1" value="<?= esc($data['r_an_j'] ?? '') ?>">
-      </div>
       <div class="uk-width-expand@s">
         <label for="r_med_j"></label>
         <input class="uk-input" type="text" placeholder="Namen des Medikamentes eingeben ..." aria-label="Medikament" id="r_med_j" name="r_med_j" value="<?= esc($data['r_med_j'] ?? '') ?>">
+      </div>
+      <div class="uk-width-1-6@s">
+        <input class="uk-input" type="number" placeholder="Anzahl" aria-label="Anzahl" id="r_an_j" name="r_an_j" min="1" value="<?= esc($data['r_an_j'] ?? '') ?>">
       </div>
       <div class="uk-width-1-5@s">
         <select id="select_j" class="uk-select" name="select_j" value="<?= esc($data['select_j'] ?? '') ?>">
@@ -240,12 +249,27 @@
     </div>
 
 
+    <div class="uk-width-1-1@s">
+      <label for="rezept_erhalt">
+        Wie möchten Sie Ihr Rezept erhalten? <abbr title="Pflichtfeld">*</abbr>
+      </label>
+      <select class="uk-select" id="rezept_erhalt" name="rezept_erhalt" required>
+        <option value="" selected disabled>Bitte auswählen</option>
+        <option value="Abholung Praxis Graumannsweg" <?= (($data['rezept_erhalt'] ?? '') === 'Abholung Praxis Graumannsweg') ? 'selected' : '' ?>>Abholung Praxis Graumannsweg</option>
+        <option value="Abholung Praxis Harvestehuder Weg" <?= (($data['rezept_erhalt'] ?? '') === 'Abholung Praxis Harvestehuder Weg') ? 'selected' : '' ?>>Abholung Praxis Harvestehuder Weg</option>
+        <option value="Abholung Praxis Mittelweg" <?= (($data['rezept_erhalt'] ?? '') === 'Abholung Praxis Mittelweg') ? 'selected' : '' ?>>Abholung Praxis Mittelweg</option>
+        <option value="per Post nach Hause (zzgl. Porto)" <?= (($data['rezept_erhalt'] ?? '') === 'per Post nach Hause (zzgl. Porto)') ? 'selected' : '' ?>>per Post nach Hause (zzgl. Porto)</option>
+        <option value="als E-Rezept auf Ihre Gesundheitskarte (nur wenn sie in diesem Quartal bereits in der Praxis eingelesen wurde)" <?= (($data['rezept_erhalt'] ?? '') === 'als E-Rezept auf Ihre Gesundheitskarte (nur wenn sie in diesem Quartal bereits in der Praxis eingelesen wurde)') ? 'selected' : '' ?>>als E‑Rezept auf Ihre Gesundheitskarte (nur wenn sie in diesem Quartal bereits in der Praxis eingelesen wurde)</option>
+      </select>
+      <?= isset($alert['rezept_erhalt']) ? '<span class="uk-text-danger">' . html($alert['rezept_erhalt']) . '</span>' : '' ?>
+    </div>
+
     <?php // Message ?>
     <div class="uk-width-1-1">
         <label for="text">
         <?= $site->labelMessage()->html() ?>
         </label>
-        <textarea class="uk-textarea uk-height-small" id="text" name="text"><?= esc($data['text']?? '') ?></textarea>
+        <textarea class="uk-textarea uk-height-small" id="text" name="text" placeholder="Ihre Nachricht (optional)"><?= esc($data['text']?? '') ?></textarea>
     </div>
 
     <?php // DSGVO Abfrage ?>

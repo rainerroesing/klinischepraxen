@@ -14,10 +14,12 @@ return function ($kirby, $site, $pages, $page) {
         $data = [
             'name'  => get('name'),
             'email' => get('email'),
+            'geburtsdatum' => get('geburtsdatum'),
             'text'  => get('text'),
             'r_an_a'  => get('r_an_a'),
             'r_med_a'  => get('r_med_a'),
             'select_a'  => get('select_a'),
+            'rezept_erhalt' => get('rezept_erhalt'),
             'r_an_b'  => get('r_an_b'),
             'r_med_b'  => get('r_med_b'),
             'select_b'  => get('select_b'),
@@ -51,6 +53,8 @@ return function ($kirby, $site, $pages, $page) {
         $rules = [
             'name'  => ['required', 'min' => 3],
             'email' => ['required', 'email'],
+            'geburtsdatum' => ['required'],
+            'rezept_erhalt' => ['required'],
             //'text'  => ['required', 'min' => 3, 'max' => 3000],
         ];
 
@@ -58,6 +62,8 @@ return function ($kirby, $site, $pages, $page) {
         $messages = [
             'name'  => esc($site->labelAlertName()->or('Please enter a valid name')),
             'email' => esc($site->labelAlertEmail()->or('Please enter a valid email address')),
+            'geburtsdatum' => 'Bitte geben Sie Ihr Geburtsdatum an',
+            'rezept_erhalt' => 'Bitte wählen Sie aus, wie Sie Ihr Rezept erhalten möchten',
             //'text'  => esc($site->labelAlertMessage()->or('Please enter a text between 3 and 3000 characters'))
         ];
 
@@ -78,6 +84,8 @@ return function ($kirby, $site, $pages, $page) {
                         'text'   => esc($data['text']),
                         'sender' => esc($data['name']),
                         'email' => esc($data['email']),
+                        'geburtsdatum' => esc($data['geburtsdatum']),
+                        'rezept_erhalt' => esc($data['rezept_erhalt']),
                         'r_an_a' => $data['r_an_a'],
                         'r_med_a' => esc($data['r_med_a']),
                         'select_a' => esc($data['select_a']),
