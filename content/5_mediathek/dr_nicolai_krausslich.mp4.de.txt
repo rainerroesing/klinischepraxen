@@ -1,0 +1,9 @@
+Uuid: pWQWrRXssHA71nE5
+
+----
+
+Template: video
+
+----
+
+Sitemap: true

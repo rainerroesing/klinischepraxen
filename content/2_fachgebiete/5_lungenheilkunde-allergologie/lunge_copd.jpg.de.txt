@@ -1,0 +1,9 @@
+Uuid: lncGUEjsoLVEcg3v
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

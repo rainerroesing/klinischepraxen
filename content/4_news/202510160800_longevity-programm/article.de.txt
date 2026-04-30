@@ -1,0 +1,49 @@
+Title: Unser Longevity-Programm
+
+----
+
+Date: 2025-10-16 08:00:00
+
+----
+
+Author: 
+
+----
+
+Desc: Longevity – Mehr Energie, mehr Leben
+
+----
+
+Text: [{"content":{"text":"<p>Wer gesund alt werden will, sollte fr\u00fch beginnen. Longevity bedeutet nicht nur, l\u00e4nger zu leben \u2013 sondern <strong>besser<\/strong> zu leben.<\/p><p>Bei uns erfahren Sie, wie Sie:<\/p><ul><li><p><strong>ihre Energie im Alltag erh\u00f6hen<\/strong><\/p><\/li><li><p><strong>geistige und k\u00f6rperliche Leistungsf\u00e4higkeit erhalten<\/strong><\/p><\/li><li><p><strong>altersbedingten Erkrankungen gezielt vorbeugen<\/strong><\/p><\/li><\/ul><p>Im K\u00f6rper laufen Reparaturprozesse ab (z. B. Autophagie), die Zellen erneuern. Die Mitochondrien \u2013 die \u201eKraftwerke\u201c der Zellen \u2013 sollen gest\u00e4rkt werden. Chronische Entz\u00fcndungen beschleunigen das Altern; Stressreduktion (z. B. Yoga, Meditation) hilft hier. Auch Ern\u00e4hrung und eine gesunde Darmflora sind wichtig: sie st\u00e4rken das Immunsystem und beeinflussen Konzentration und Stimmung \u00fcber die Darm\u2011Hirn\u2011Achse. Nur etwa 20 % unseres Wohlbefindens sind genetisch bestimmt \u2013 rund 80 % k\u00f6nnen wir selbst positiv beeinflussen<strong>.<\/strong><\/p><p><strong>Unser Angebot f\u00fcr Sie:<\/strong><br>Mit gezielten Analysen finden wir heraus, wo Ihr pers\u00f6nliches Potenzial liegt, Alterskrankheiten zu vermeiden. Wir betrachten drei miteinander vernetzte K\u00f6rpersysteme:<\/p><ul><li><p><strong>Immunsystem<\/strong><\/p><\/li><li><p><strong>Hormonsystem (endokrines System)<\/strong><\/p><\/li><li><p><strong>Vegetatives Nervensystem<\/strong><\/p><\/li><\/ul><p>Aus den Ergebnissen entwickeln wir Ihren <strong>pers\u00f6nlichen Gesundheitsplan <\/strong>\u2013 mit individuellen \u201eBoostern\u201c f\u00fcr mehr Vitalit\u00e4t und Pr\u00e4vention.<\/p><p><strong>Neu:<\/strong> Demn\u00e4chst arbeiten wir mit einer KI-gest\u00fctzten Pr\u00e4ventionsplattform. Sie erm\u00f6glicht eine noch pr\u00e4zisere, datenbasierte und personalisierte Vorsorge gegen chronische (nicht ansteckende) Erkrankungen.<\/p><p>Starten Sie jetzt Ihr pers\u00f6nliches Longevity-Programm \u2013 f\u00fcr mehr Energie, Klarheit und Lebensfreude!<\/p><p>Vereinbaren Sie gern einen Termin bei <strong>Frau Gollembiewski<\/strong> ( <a href=\"mailto:a.gollembiewski@klinische-praxen.de\">a.gollembiewski@klinische-praxen.de<\/a>) und Sie erhalten weitere Informationen.<br><br><\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"0e7256ed-7ae6-4e8a-bb3a-3d490af07f02","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":[],"src":"","ratio":"","alt":"","resizewidth":null,"caption":"","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":"","linkoption":"","link":"","newtab":"false"},"id":"70b6f9c4-0fdf-470b-887b-d0f56434443c","isHidden":false,"type":"image"}]
+
+----
+
+Cover: - file://poXLXREKLdjLCJuH
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: Prävention
+
+----
+
+Tags: check-up, prävention, vns-analyse, blutanalyse, longevity, vorsorge, Infusionen, Hormone
+
+----
+
+Featured: no
+
+----
+
+Uuid: zhEK2XSHMX1dEEDI

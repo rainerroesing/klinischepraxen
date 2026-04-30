@@ -1,0 +1,33 @@
+Title: Suche
+
+----
+
+Alttitle: 
+
+----
+
+Intro: Drücken Sie Enter/Return um Ihre Suche zu starten
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: false
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Text: 
+
+----
+
+Uuid: UGBJOexcYRVwsRFG

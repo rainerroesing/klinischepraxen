@@ -1,0 +1,9 @@
+Uuid: MyrjxEiYVISnIhMc
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

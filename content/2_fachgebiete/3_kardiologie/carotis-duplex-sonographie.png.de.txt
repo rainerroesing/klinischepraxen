@@ -1,0 +1,9 @@
+Uuid: QDN1Xo5M3ZAtxo1K
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

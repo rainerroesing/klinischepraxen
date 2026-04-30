@@ -1,0 +1,9 @@
+Uuid: CB6E8Qu1HnpkzZq2
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

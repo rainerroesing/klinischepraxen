@@ -1,0 +1,9 @@
+Uuid: CSRwkHHpIX30025w
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

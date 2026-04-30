@@ -1,0 +1,49 @@
+Title: Impfungen gegen COVID-19
+
+----
+
+Date: 2023-10-01 08:00:00
+
+----
+
+Author: 
+
+----
+
+Desc: Impfungen gegen neue Varianten von COVID-19 (Corona)
+
+----
+
+Text: [{"content":{"text":"<p>Der neue an <u>XBB-1.5-Varianten adaptierte COVID-19-Impfstoff <\/u>(Handelsname Comirnaty XBB.1.5) ist <u>in der Praxis vorhanden<\/u>. Da die wertvolle Impfung nur in 6-Dosen-Fl\u00e4schchen vorliegt und begrenzt haltbar ist, m\u00fcssen wir die Impfung in bestimmten Zeitfenstern anbieten. Eine gleichzeitige Impfung mit dem Grippe-Impfstoff und\/oder dem Pneumokokken-Impfstoff ist von der STIKO freigegeben.<\/p><p><strong>Impftermine<\/strong> buchen Sie bitte per Mail \u00fcber <a href=\"mailto:info@klinische-praxen.de\">info@klinische-praxen.de<\/a> , \u00fcber die <a href=\"https:\/\/www.klinische-praxen.de\/kontakt\" rel=\"noopener noreferrer\">Homepage<\/a> oder telefonisch: +49 40 22 72 78 0.<\/p><p>\u00a0<\/p><p><strong>Hinweis<\/strong>: Die Impftermine beinhalten keine Zeit f\u00fcr andere zus\u00e4tzliche Fragen au\u00dferhalb der Impfberatung. Bei weiteren Problemen vereinbaren Sie bitte einen zus\u00e4tzlichen Sprechstundentermin.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"0e7256ed-7ae6-4e8a-bb3a-3d490af07f02","isHidden":false,"type":"text"}]
+
+----
+
+Cover: - file://vpn0xNdZTtkydKMV
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: Allgemeinmedizin
+
+----
+
+Tags: COVID-19, Impfung, Corona
+
+----
+
+Featured: no
+
+----
+
+Uuid: ROH8oJEnQjnrxywQ

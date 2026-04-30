@@ -1,0 +1,69 @@
+// Name:            Slider
+// Description:     Component to create horizontal sliders
+//
+// Component:       `uk-slider`
+//
+// Sub-objects:     `uk-slider-container`
+//                  `uk-slider-items`
+//
+// States:          `uk-active`
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+@slider-container-margin-top:                       -11px;
+@slider-container-margin-bottom:                    -39px;
+@slider-container-margin-left:                      -10px;
+@slider-container-margin-right:                     -10px;
+
+
+// DocSlider ID for Startpage
+
+#docslider {
+  //overflow: hidden;
+  .uk-position-relative {
+    padding: 20px;
+    background: #F6F5F2;
+  }
+  .uk-slider {
+    .uk-slider-container {
+      padding:0;
+      .uk-slider-items {
+        li {
+          .uk-cover-container {
+            .uk-overlay {
+              padding: 10px 10px;
+            }
+            [class*=uk-transition-slide] {
+              opacity: 1;
+            }
+            .uk-transition-slide-bottom-small {
+              --uk-translate-y: 0px;
+            }
+          }
+        }
+      }
+      .uk-light {
+        .uk-slidenav {
+          background: #F6F5F2;
+          color: #303030a3;
+        }
+        .uk-slidenav-large {
+          padding: 17px 19px;
+        }
+      }
+    }
+    .uk-dotnav>* {
+      padding-left: 20px;
+    }
+    .uk-dotnav>*>* {
+      background: #ECECEC;
+    }
+    .uk-dotnav>.uk-active>* {
+      background: #A01223;
+    }
+  }
+}

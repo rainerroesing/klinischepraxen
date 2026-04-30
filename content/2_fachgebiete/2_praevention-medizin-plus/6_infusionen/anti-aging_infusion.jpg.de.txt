@@ -1,0 +1,9 @@
+Uuid: BMFUlN4yqZLP80VY
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

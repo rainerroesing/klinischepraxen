@@ -1,0 +1,9 @@
+Uuid: NRg1trVsMrRG5Xhi
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

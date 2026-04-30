@@ -1,0 +1,9 @@
+Uuid: XC38DxnSsAgGlofi
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

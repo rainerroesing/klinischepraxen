@@ -1,0 +1,9 @@
+Uuid: pso16lnhjuZ2zNU8
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

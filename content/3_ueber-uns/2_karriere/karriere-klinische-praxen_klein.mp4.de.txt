@@ -1,0 +1,9 @@
+Uuid: KJZwhSbllbe3Rp1S
+
+----
+
+Template: video
+
+----
+
+Sitemap: true

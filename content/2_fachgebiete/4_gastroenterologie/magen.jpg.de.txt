@@ -1,0 +1,9 @@
+Uuid: VTW9oyk50URKUeeD
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

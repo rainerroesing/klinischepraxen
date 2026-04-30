@@ -1,0 +1,9 @@
+Uuid: hekmgNiNT1JGbsMM
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

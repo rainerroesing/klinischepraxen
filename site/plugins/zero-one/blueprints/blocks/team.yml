@@ -1,0 +1,72 @@
+name: Team
+icon: file-image
+
+fields:
+  image:
+    label:
+      en: Image
+      de: Kreis-Bild
+    type: files
+    layout: list
+    query: site.index(true).images
+    info: "{{ file.dimensions }} {{ file.niceSize }}"
+    uploads: image
+    multiple: false
+    help:
+      en: Image crop works only for JPG and PNG images.
+      de: Bild in 800px x 800px hochladen. Kreis wird automatisch gesetzt.
+    image:
+      back: black
+    width: 1/1
+  text:
+    label: Name
+    type: text
+    width: 3/4
+  toggleArzt:
+    label: Arzt?
+    type: toggle
+    text:
+      - "Nein"
+      - "Ja"
+    width: 1/4
+  facharzttitel:
+    label: Facharzttitel
+    type: text
+    placeholder: Titel
+    width: 1/2
+    when:
+      toggleArzt: true
+  modalLebenslauf:
+    label:
+    type: slug
+    sync: text
+    width: 1/2
+    when:
+      toggleArzt: true
+  imageLebenslauf:
+    label:
+      en: Image
+      de: Lebenslauf-Bild
+    type: files
+    layout: list
+    query: site.index(true).images
+    info: "{{ file.dimensions }} {{ file.niceSize }}"
+    uploads: image
+    multiple: false
+    help:
+      en: Image crop works only for JPG and PNG images.
+      de: Bild im Hochformat.
+    image:
+      back: black
+    cover: true
+    when:
+      toggleArzt: true
+  textLebenslauf:
+    apiKey: b9ca4q0vvw3mqmrq0hc4l7wo686t66cj2elkvov49u2jfax2
+    label: Lebenslauf
+    type: tinymce
+    menubar: edit view format table
+    placeholder: "Texte und Lebenslauf ..."
+    size: 750
+    when:
+      toggleArzt: true

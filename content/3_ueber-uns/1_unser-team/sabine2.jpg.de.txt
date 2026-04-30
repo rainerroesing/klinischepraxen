@@ -1,0 +1,9 @@
+Uuid: xmPNmp4RjBmPPR37
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

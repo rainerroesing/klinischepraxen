@@ -1,0 +1,9 @@
+Uuid: cfd7mcbQv6k5msor
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

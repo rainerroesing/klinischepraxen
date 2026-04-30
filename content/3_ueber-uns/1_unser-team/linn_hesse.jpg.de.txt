@@ -1,0 +1,9 @@
+Uuid: I1RoHPDcWEBDocPJ
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

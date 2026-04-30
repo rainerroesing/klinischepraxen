@@ -1,0 +1,9 @@
+Uuid: gWHOtC16QEhIAkRj
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

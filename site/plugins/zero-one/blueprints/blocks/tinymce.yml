@@ -1,0 +1,9 @@
+name: TinyMCE Text Editor
+icon: text
+
+fields:
+  text:
+    label: TinyMCE Text Editor
+    type: tinymce
+    placeholder: "Texte ..."
+    size: 750

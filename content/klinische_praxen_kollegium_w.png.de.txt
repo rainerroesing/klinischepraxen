@@ -1,0 +1,9 @@
+Uuid: MRanMzrFbDoW9I9F
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

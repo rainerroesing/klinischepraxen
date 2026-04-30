@@ -1,0 +1,73 @@
+Title: Über uns
+
+----
+
+Redirect: - page://JrkHylOirI3wGexl
+
+----
+
+Link: https://www.klinische-praxen.de/ueber-uns/unser-team
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: uk-background-center-center
+
+----
+
+Megamenubackgroundimagesize: uk-background-cover
+
+----
+
+Megamenubackgroundimagerepeat: no-repeat
+
+----
+
+Megamenubackgroundoverlaycolor: rgba(0,0,0,0.3)
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Megamenubackgroundoverlaycolor2: rgba(0,0,0,0.3)
+
+----
+
+Uuid: JrkHylOirI3wGexl

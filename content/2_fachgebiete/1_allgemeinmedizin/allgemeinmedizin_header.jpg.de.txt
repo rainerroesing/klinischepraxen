@@ -1,0 +1,9 @@
+Uuid: qClmVsp414bCct0d
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

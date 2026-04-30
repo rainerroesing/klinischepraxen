@@ -1,0 +1,9 @@
+Uuid: lczMXqKv4a23PGFO
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

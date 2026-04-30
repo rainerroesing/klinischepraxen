@@ -1,0 +1,9 @@
+Uuid: BhqVsrywYb8BTCZs
+
+----
+
+Template: video
+
+----
+
+Sitemap: true

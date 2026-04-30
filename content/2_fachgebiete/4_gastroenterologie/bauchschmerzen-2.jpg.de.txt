@@ -1,0 +1,9 @@
+Uuid: RoL2tcgU3aHmBWMZ
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

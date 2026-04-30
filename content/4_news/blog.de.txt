@@ -1,0 +1,273 @@
+Title: News
+
+----
+
+Categories: Karriere, Check-up, Prävention, Ernährungsmedizin, Innere Medizin, Neurologie, Gastroenterologie, Kardiologie, Lungenheilkunde, Allgemeinmedizin, Krebsvorsorge, Über uns
+
+----
+
+Disallowsubmenu: true
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Headerbackgroundtoggle: true
+
+----
+
+Header: - file://QH52TJivzJxPlsyB
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: #42557b
+
+----
+
+Backgroundparalax: paralaxY
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: News und Ankündigungen rund um die Klinischen Praxen
+
+----
+
+Metadescription: Aktuelles und nützliche Informationen für unsere PatientInnen der Klinischen Praxen.
+
+----
+
+Dateformat: d.m.Y
+
+----
+
+Perpage: 6
+
+----
+
+Articletitlesize: 
+
+----
+
+Listingstyle: 
+
+----
+
+Sidebarblog: no
+
+----
+
+Sidebarprofile: true
+
+----
+
+Sidebarcategories: true
+
+----
+
+Sidebararchive: true
+
+----
+
+Sidebartags: true
+
+----
+
+Sidebarsocialmedia: true
+
+----
+
+Profileimage: - file://zrqGWicwKVvHSWMf
+
+----
+
+Profileheading: We love design. That's how we got here.
+
+----
+
+Profiletext:
+
+With over 10 years of experience, we has helped out companies, big and small, all over the world.
+
+(link: contact text: Get in touch with us)
+
+----
+
+Coverwidtharticle: default
+
+----
+
+Shareswitch: true
+
+----
+
+Inverseimagetextcolor: false
+
+----
+
+Sidebararticle: yes
+
+----
+
+Sidebararticlelatestposts: true
+
+----
+
+Sidebararticlecategories: true
+
+----
+
+Sidebararticlearchive: true
+
+----
+
+Sidebararticletags: true
+
+----
+
+Sidebararticlesocialmedia: false
+
+----
+
+Commentsoptionselect: none
+
+----
+
+Commentscode: 
+
+----
+
+Webmentions: false
+
+----
+
+Commentsswitch: false
+
+----
+
+Files: 
+
+----
+
+Sidebararticleprofile: 1
+
+----
+
+Latestposts: true
+
+----
+
+Sidebar: yes
+
+----
+
+Uuid: wOLdB3WJjuJERZHv

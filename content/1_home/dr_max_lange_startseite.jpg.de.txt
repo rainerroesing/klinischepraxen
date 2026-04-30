@@ -1,0 +1,9 @@
+Uuid: PDfQqkdDi7PVy78c
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

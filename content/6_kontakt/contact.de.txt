@@ -1,0 +1,185 @@
+Title: Kontakt
+
+----
+
+Editor: [{"content":{"level":"h2","text":"Kontaktieren Sie uns","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"d9a3fd9e-6890-4b1c-8df7-58e75addb230","isHidden":false,"type":"heading"},{"content":{"text":"<p>Termine vereinbaren Sie bitte \u00fcber <a href=\"https:\/\/www.doctolib.de\/medizinisches-versorgungszentrum-mvz\/hamburg\/klinische-praxen-hamburg\/booking\/specialities?profile_skipped=true\" target=\"_blank\" rel=\"noopener noreferrer\">Doctolib<\/a> oder telefonisch unter <a href=\"tel:+49402272780\" rel=\"noopener noreferrer\">040 - 22 72 78 0<\/a>.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"c7f73ea8-16fd-44ae-99ee-04dca494ad6b","isHidden":false,"type":"text"}]
+
+----
+
+Contactform: true
+
+----
+
+Columns: 
+
+----
+
+Sectionsize: uk-section-large
+
+----
+
+Sectioncolor: uk-section-secondary
+
+----
+
+Gridwidth: 
+
+----
+
+Columnstack: tablet
+
+----
+
+Columngap: uk-grid-large
+
+----
+
+Columnsdivider: true
+
+----
+
+Centertext: true
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: 
+
+----
+
+Megamenubackgroundimagesize: 
+
+----
+
+Megamenubackgroundimagerepeat: 
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: Kontakt
+
+----
+
+Intro: Wir freuen uns von Ihnen zu hören.
+
+----
+
+Headerbackgroundtoggle: true
+
+----
+
+Header: - file://DzrJozuUmGn116kh
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: #a1505ae6
+
+----
+
+Backgroundparalax: paralaxY
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: Wir freuen uns auf Ihre Nachricht an die Klinischen Praxen.
+
+----
+
+Uuid: zGjd8nAxvMghIacx

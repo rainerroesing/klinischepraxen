@@ -1,0 +1,9 @@
+Uuid: ckdTCkhmaEBa835R
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

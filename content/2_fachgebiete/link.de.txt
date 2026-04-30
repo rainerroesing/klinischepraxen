@@ -1,0 +1,73 @@
+Title: Fachgebiete
+
+----
+
+Redirect: 
+
+----
+
+Link: https://klinische-praxen.de/#leistungsbereiche
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: true
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: uk-background-center-center
+
+----
+
+Megamenubackgroundimagesize: uk-background-cover
+
+----
+
+Megamenubackgroundimagerepeat: no-repeat
+
+----
+
+Megamenubackgroundoverlaycolor: rgba(0,0,0,0.3)
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Megamenubackgroundoverlaycolor2: rgba(0,0,0,0.3)
+
+----
+
+Uuid: XzwGGHzNw2uRHzEL

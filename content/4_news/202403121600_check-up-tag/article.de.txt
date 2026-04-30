@@ -1,0 +1,49 @@
+Title: Großer Check-up-Tag!
+
+----
+
+Date: 2024-03-12 16:00:00
+
+----
+
+Author: 
+
+----
+
+Desc: Am 11. März 2024 fand unser großer Check-up-Tag in der Praxis im Mittelweg statt!
+
+----
+
+Text: [{"content":{"text":"<p>Unsere Patientinnen und Patienten konnten sich an diesem Tag komplett durchchecken lassen, um eine <strong>Standortbestimmung des eigenen Gesundheitszustandes und Empfehlungen zur Verbesserung<\/strong> zu erhalten.<\/p><p>Dieses <strong>Check-up-Programm wurde speziell f\u00fcr Unternehmen und ihre Mitarbeitenden entwickelt.<\/strong> Zuk\u00fcnftig k\u00f6nnen Arbeitgeber, die sich wirklich um das Wohl Ihrer Belegschaft k\u00fcmmern wollen, dies als Betriebliche Gesundheitsma\u00dfnahme (BGM) einsetzen.<\/p><p>Dieser umfassende Check-up enthielt folgende Stationen:<\/p><ul><li><p><strong>gr\u00fcndliche Anamnese<\/strong><\/p><\/li><li><p><strong>gro\u00dfes Blutbild \/ Messung der Vitalwerte<\/strong><\/p><\/li><li><p><strong>Impfstatus und ggf. Auffrischimpfungen<\/strong><\/p><\/li><li><p><strong>Kardio-Check \/ Ultraschall der Halsschlagader<\/strong><\/p><\/li><li><p><strong>K\u00f6rperanalyse<\/strong><\/p><\/li><li><p><strong>Stress-Messung<\/strong><\/p><\/li><li><p><strong>Abschlussgespr\u00e4ch<\/strong><\/p><p><\/p><\/li><\/ul><p>M\u00f6chten auch Sie f\u00fcr Ihren Arbeitgeber oder Ihr eigenes Unternehmen weitere Informationen zum Check-up f\u00fcr MitarbeiterInnen?<\/p><p><strong>Informationen unter 040 - 22 72 78 99 oder m.lange@klinische-praxen.de.<br><\/strong><\/p><p><a href=\"https:\/\/www.klinische-praxen.de\/fachgebiete\/praevention-medizin-plus\/check-up\" rel=\"noopener noreferrer\"><strong>Hier finden Sie au\u00dferdem weitere Informationen zu unserem Premium-Check-up f\u00fcr Privat-Personen.<\/strong><\/a><\/p><p><\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"0e7256ed-7ae6-4e8a-bb3a-3d490af07f02","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":[{"id":"check-up-ablauf.jpg"}],"src":"","ratio":"","alt":"","resizewidth":null,"caption":"","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":"","linkoption":"","link":"","newtab":"false"},"id":"70b6f9c4-0fdf-470b-887b-d0f56434443c","isHidden":false,"type":"image"}]
+
+----
+
+Cover: - file://5aP5IfnLj2yPHzgX
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: Check-up
+
+----
+
+Tags: check-up, prävention, kardiologie, vns-analyse, impfen, blutanalyse, longevity, haltungscheck, vorsorge
+
+----
+
+Featured: no
+
+----
+
+Uuid: oOpsHJaoOwiHedN4

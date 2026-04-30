@@ -1,0 +1,9 @@
+Uuid: LG51a9jzaddVnRjG
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

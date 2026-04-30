@@ -1,0 +1,33 @@
+Caption: Dr. Gerhard Lange-Manchot
+
+----
+
+Harry: Allgemeinmediziner
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sitemap: true
+
+----
+
+Uuid: t876Prr9jsTue51d
+
+----
+
+Template: image

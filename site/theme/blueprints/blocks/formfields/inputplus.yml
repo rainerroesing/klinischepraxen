@@ -1,0 +1,8 @@
+name: Input-Plus
+icon: list-bullet
+
+fields:
+  name:
+    label: Rezept Feld
+    type: text
+    width: 1/1

@@ -1,0 +1,49 @@
+Title: Künstliche Intelligenz bei der Darmkrebsvorsorge
+
+----
+
+Date: 2023-03-03 17:00:00
+
+----
+
+Author: 
+
+----
+
+Desc: In der Endoskopie verwenden wir seit März 2023 die neueste verfügbare Technik, um die bestmögliche Darmkrebsvorsorge anbieten zu können.
+
+----
+
+Text: [{"content":{"text":"<p>Dazu verwenden wir eine Software, die mit Hilfe k\u00fcnstlicher Intelligenz sehr treffend Polypen erkennen kann. Weiterhin verwenden wir die CO2-Insufflation, um die Darmspiegelung m\u00f6glichst schonend zu gestalten. Weitere Informationen zur Darmspiegelung, finden Sie <a href=\"https:\/\/www.klinische-praxen.de\/fachgebiete\/gastroenterologie\" rel=\"noopener noreferrer\">hier<\/a> im Fachberech <a href=\"https:\/\/www.klinische-praxen.de\/fachgebiete\/gastroenterologie\" rel=\"noopener noreferrer\">Gastroenterologie<\/a>.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"b6328f23-6234-40e6-a71a-66dc32c53044","isHidden":false,"type":"text"},{"content":{"text":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"f2295f5b-8588-47d0-b5c4-e6587ab9399e","isHidden":false,"type":"text"}]
+
+----
+
+Cover: - file://ygcWpsReWxyAtbjm
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: Gastroenterologie
+
+----
+
+Tags: Darmkrebvorsorge, Künstliche Intelligenz, Polypen, Darmspiegelung
+
+----
+
+Featured: no
+
+----
+
+Uuid: v17R41ciPxt00x3z

@@ -1,0 +1,178 @@
+title: Site
+
+tabs:
+  # Site Content tab
+  content: tabs/site-content
+
+  # Site Settings tab
+  siteoptions:
+    label:
+      en: Site Settings
+      de: Seiteneinstellungen
+    icon: settings
+    columns:
+      - width: 2/3
+        sections:
+          # brand settings
+          sitesetup:
+            extends: sections/site-brand
+
+          # navbar
+          navbar:
+            extends: sections/site-navbar
+
+          # header
+          headersettings:
+            extends: sections/site-header
+
+          #projects section
+          projectsettings:
+            extends: sections/site-projects
+
+          #shop section
+          shopsettings:
+            extends: sections/site-shop
+
+            # social
+          socialsettings:
+            extends: sections/site-social
+
+          # footer builder
+          footerBuilder:
+            type: fields
+            fields:
+              footer:
+                label:
+                  en: Footer
+                  de: Fusszeile
+                type: headline
+              # footer builder
+              footerBuilder:
+                label: Footer builder
+                type: toggles
+                default: content-builder
+                options:
+                  - value: content-builder
+                    text: Footer Options (Old)
+                    icon: settings
+                  - value: layout-builder
+                    text: Layout Builder (New)
+                    icon: grid
+
+          #footer section
+          footersettings:
+            extends: sections/site-footer
+            when:
+              footerBuilder: content-builder
+
+          # Layout Builder sections
+          layoutBuilder:
+            extends: sections/layout-builder
+            when:
+              footerBuilder: layout-builder
+
+          #cookie consent section
+          cookiesettings:
+            extends: sections/site-cookie
+
+          # custom settings
+          customsettings:
+            extends: sections/custom-site
+
+      - width: 1/3
+        sections:
+          # sections in the last right column
+          performanceSettings:
+            type: fields
+            fields:
+              performanceHeadline:
+                label:
+                  en: Performance settings
+                  de: Performance-Einstellungen
+                type: headline
+                numbered: false
+              # cachebusting
+              cachebusting:
+                label:
+                  en: Cachebusting
+                  de: Cache-Busting
+                type: toggle
+                translate: false
+                help:
+                  en: |
+                    Turn on/off scripts cachebusting. (link: https://www.keycdn.com/support/what-is-cache-busting text: Learn more target: _blank)
+                  de: |
+                    Aktivieren/deaktivieren Sie das Cachebusting von Skripten. (link: https://www.keycdn.com/support/what-is-cache-busting text: Mehr erfahren target: _blank)
+
+            # misc settings
+          miscsettings:
+            extends: sections/site-misc
+
+          #transitions section
+          transitionsettings:
+            extends: sections/site-transitions
+
+  # SEO tab
+  seo:
+    label: SEO & Files
+    icon: search
+    columns:
+      - width: 2/3
+        sections:
+          meta:
+            type: fields
+            fields:
+              # Meta Image
+              metaFile:
+                label: Site Meta Image
+                type: files
+                multiple: false
+                help:
+                  en: Recommended image size 1200x630. Used for Home Page, but also as a backup for page Meta Image.
+                  de: Empfohlene Bildgröße 1200x630. Wird für die Startseite, aber auch als Backup für das Seiten-Meta-Image verwendet.
+
+              # Meta Title
+              metaTitle:
+                label:
+                  en: Site Meta Title
+                  de: Site-Meta-Titel
+                type: text
+                maxlength: 70
+                help:
+                  en: The page title will be shown if no Site Meta Title is given.
+                  de: Der Seitentitel wird angezeigt, wenn kein Site-Metatitel angegeben ist.
+
+              # Meta Description
+              metaDescription:
+                label:
+                  en: Site Meta Description
+                  de: Site Meta Beschreibung
+                type: textarea
+                size: small
+                maxlength: 160
+                buttons: false
+                help:
+                  en: The site meta description will be shown if no page description is given.
+                  de: Die Site-Meta-Beschreibung wird angezeigt, wenn keine Seitenbeschreibung angegeben ist.
+
+      - width: 1/3
+        sections:
+          # Files
+          metaFiles:
+            headline:
+              en: Files
+              de: Dateien
+            type: files
+            info: "{{ file.dimensions }} {{ file.niceSize }}"
+            search: true
+            help:
+              en: Click on the file and add its meta information.
+              de: Klicken Sie auf die Datei und fügen Sie ihre Metainformationen hinzu.
+
+  # Labels tab
+  # labels:
+  # extends: tabs/labels
+
+  # Styling tab
+  # styling:
+  # extends: tabs/styling

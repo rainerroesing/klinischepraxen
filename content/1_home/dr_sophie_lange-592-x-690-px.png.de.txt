@@ -1,0 +1,33 @@
+Caption: Dr. Sophie Lange
+
+----
+
+Harry: Fachärztin für Innere Medizin
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sitemap: true
+
+----
+
+Uuid: 2VFVqkILxjISm8Ag
+
+----
+
+Template: image

@@ -1,0 +1,9 @@
+Uuid: IwarPBpt2487ThVX
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

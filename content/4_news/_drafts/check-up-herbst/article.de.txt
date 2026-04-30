@@ -1,0 +1,49 @@
+Title: Neue Check-up-Termine
+
+----
+
+Date: 2024-07-29 08:00:00
+
+----
+
+Author: 
+
+----
+
+Desc: Aufgrund hoher Nachfrage: Zwei neue Check-up-Tage!
+
+----
+
+Text: [{"content":{"text":"<p>Unsere Patientinnen und Patienten k\u00f6nnen sich an diesen Tagen durchchecken lassen, um eine <strong>Standortbestimmung des eigenen Gesundheitszustandes und Empfehlungen zur Verbesserung<\/strong> zu erhalten. Erfahren Sie, ob gesundheitliche Risikofaktoren bereits bei Ihnen vorhanden sind und wie Sie aktiv dagegen steuern k\u00f6nnen.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"7ff3b770-555e-4483-8d76-64f6227fb432","isHidden":false,"type":"text"},{"content":{"text":"<ul><li><p><strong>Montag 07. Oktober 2024<\/strong><\/p><\/li><li><p><strong>Montag 25. November 2024<\/strong><\/p><\/li><\/ul>","textalign":" uk-text-left@m","textaligntablet":" uk-text-left@s","textalignmobile":" uk-text-left","textsize":" uk-text-default","texttransform":"","textwrapping":"","textcolor":" uk-text-danger"},"id":"df0569b7-8c26-4864-b593-2336d9dca9e0","isHidden":false,"type":"text"},{"content":{"linestyle":""},"id":"21fd45fa-f759-45c5-a0a3-cff5a3b7b693","isHidden":false,"type":"line"},{"content":{"level":"h3","text":"<p>Der umfassende Check-up enth\u00e4lt folgende Stationen:<\/p>","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"6a17c16f-c8b4-4054-bdb4-4f9a5bc70c7a","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><strong>gr\u00fcndliche Anamnese<\/strong><\/li><li><strong>gro\u00dfes Blutbild \/ Messung der Vitalwerte<\/strong><\/li><li><strong>Impfstatus und ggf. Auffrischimpfungen<\/strong><\/li><li><strong>Kardio-Check \/ Ultraschall der Halsschlagader<\/strong><\/li><li><strong>K\u00f6rperanalyse<\/strong><\/li><li><strong>Stress-Messung<\/strong><\/li><li><strong>Abschlussgespr\u00e4ch mit Befundbesprechung und Empfehlungen<\/strong><\/li><\/ul>","liststyle":" uk-list-checkbox","listcolor":" uk-list-secondary","listsize":"","listdivider":"","column":""},"id":"7fa3a857-e6d4-4eb9-abe3-a057cf8b8c3d","isHidden":false,"type":"list"},{"content":{"text":"<p><strong>-&gt; Dauer: <\/strong>2 Stunden am Check-up-Tag (eine Woche vorher erfolgt eine Blutentnahme)<br><strong>-&gt;<\/strong> <strong>Ort:<\/strong> Praxis Mittelweg 162, 20148 Hamburg<br><strong>-&gt;<\/strong> <strong>Kosten: <\/strong>600 \u20ac\u00a0(Selbstzahler, die Abrechnung erfolgt nach der Geb\u00fchrenordnung f\u00fcr \u00c4rzte. Die meisten privaten Krankenkassen \u00fcbernehmen den Check-up)<br><strong>-&gt;<\/strong> <strong>Anmeldung:<\/strong> <a href=\"tel:+49402272780\" rel=\"noopener noreferrer\">040 - 22 72 78 0<\/a> oder mw@klinische-praxen.de<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"97bc2ff6-4e19-48b4-8c98-539960c02b3e","isHidden":false,"type":"text"},{"content":{"linestyle":""},"id":"f32231fe-559e-49d4-980e-0e8f92b39d4d","isHidden":false,"type":"line"},{"content":{"level":"h3","text":"Unser Check-up-Konzept f\u00fcr eine m\u00f6glichst lange und gesunde Lebensspanne!","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"a492b862-6572-49fa-97ac-c4005ad80400","isHidden":false,"type":"heading"},{"content":{"videosource":"upload","videofile":["file:\/\/lJEJiCvnzoSFycjI"],"url":"","caption":"","poster":[]},"id":"6b1ecf0b-f758-424e-bed8-276e57bd6bbd","isHidden":false,"type":"video"},{"content":{"text":"<p><a href=\"https:\/\/www.klinische-praxen.de\/fachgebiete\/praevention-medizin-plus\/check-up\" rel=\"noopener noreferrer\"><strong>Hier finden Sie weitere Informationen zu unserem Check-up Konzept.<\/strong><\/a><\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"447aa0b6-3fb0-4456-9bef-0bdf0419848c","isHidden":false,"type":"text"}]
+
+----
+
+Cover: - file://z63YyBeZFIuZKWCH
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: Check-up
+
+----
+
+Tags: check-up, prävention, kardiologie, vns-analyse, impfen, blutanalyse, longevity, haltungscheck, vorsorge
+
+----
+
+Featured: no
+
+----
+
+Uuid: cPPwZrEKEKQzNJ6f

@@ -1,0 +1,9 @@
+Uuid: PFy44VKTMWCpenf7
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

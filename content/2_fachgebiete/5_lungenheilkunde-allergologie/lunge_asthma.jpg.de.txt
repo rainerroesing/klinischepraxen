@@ -1,0 +1,9 @@
+Uuid: GmOL82ocVHW8cGkW
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

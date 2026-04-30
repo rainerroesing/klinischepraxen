@@ -1,0 +1,49 @@
+Title: Samstags Notfallsprechstunde und Magen & Darmspiegelungen
+
+----
+
+Date: 2025-06-23 08:00:00
+
+----
+
+Author: 
+
+----
+
+Desc: NEU: Wir bieten PrivatpatientInnen eine Notfallsprechstunde und Magen & Darmspiegelungen an Samstagen an!
+
+----
+
+Text: [{"content":{"text":"<p>Wir erweitern unser Angebot und bieten ab sofort jeden Samstag von 09:00-14:00 Uhr in unserer Praxis in der <strong>Hansastra\u00dfe 2-3<\/strong> eine <strong>Notfallsprechstunde<\/strong> sowie <strong>Magen- und Darmspiegelungen <\/strong>f\u00fcr<strong> PrivatpatientInnen<\/strong> an.<\/p><p>Bitte buchen Sie sich f\u00fcr akute Beschwerden oder eine Magen- oder Darmspiegelung einen Termin \u00fcber <a href=\"https:\/\/www.doctolib.de\/gastroenterologie\/hamburg\/maximilian-lange\/booking\/motives?specialityId=1097&amp;telehealth=false&amp;placeId=practice-381557&amp;isNewPatient=true&amp;isNewPatientBlocked=false&amp;insuranceSector=private&amp;insuranceSectorEnabled=true&amp;pid=practice-381557&amp;bookingFunnelSource=profile\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Doctolib<\/strong><\/a>.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"0e7256ed-7ae6-4e8a-bb3a-3d490af07f02","isHidden":false,"type":"text"}]
+
+----
+
+Cover: - file://XOM2EYZ0xZGmZ67p
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: Allgemeinmedizin
+
+----
+
+Tags: Sprechstunde, Magenspiegelung, Darmspiegelung, Gastroskopie, Notfall, Koloskopie, Hansastraße
+
+----
+
+Featured: no
+
+----
+
+Uuid: eyx3UknABbaDAMHg

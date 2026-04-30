@@ -1,0 +1,9 @@
+Uuid: qW6TCuRgzyWHLM57
+
+----
+
+Template: video
+
+----
+
+Sitemap: true

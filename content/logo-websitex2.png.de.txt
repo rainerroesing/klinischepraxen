@@ -1,0 +1,13 @@
+Uuid: aNp2n4LHZhHYKXib
+
+----
+
+Template: image
+
+----
+
+Caption: 
+
+----
+
+Sitemap: true

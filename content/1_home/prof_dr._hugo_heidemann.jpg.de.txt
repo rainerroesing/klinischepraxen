@@ -1,0 +1,33 @@
+Caption: Prof. Dr. Hugo Heidemann
+
+----
+
+Harry: Internist
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sitemap: true
+
+----
+
+Uuid: xuTmUfqxZ9UJVEwf
+
+----
+
+Template: image

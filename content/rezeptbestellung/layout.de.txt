@@ -1,0 +1,161 @@
+Title: Rezeptbestellung
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container uk-container-small","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"subgrid":"[{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"columnwidth\":\"\",\"tabletwidth\":\"\",\"mobilewidth\":\"\",\"columnheight\":\"\",\"columnminheight\":\"70px\",\"columnmaxheight\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"columnstyle\":\"none\",\"columncardsize\":\"\",\"columncardhover\":\"false\",\"columncardcolor\":\" uk-card-default\",\"columntile\":\"\",\"columnbackground\":\"\",\"columntextcolor\":\" uk-light\",\"backgroundstyle\":\"color\",\"backgroundimage\":[],\"backgroundimageposition\":\" uk-background-center-center\",\"backgroundimagesize\":\" uk-background-cover\",\"backgroundimagerepeat\":\" no-repeat\",\"backgroundparalax\":\"\",\"mediavideosource\":\"url\",\"mediavideo\":[],\"mediavideourl\":\"\",\"backgroundoverlaycolor\":\"rgba(0,0,0,0.3)\",\"backgroundgradientoverlay\":\"false\",\"backgroundgradienttransition\":\"\",\"backgroundoverlaycolor2\":\"rgba(0,0,0,0.3)\",\"columnpadding\":\"\",\"itemfirst\":\"\",\"itemlast\":\"\",\"borderrounded\":\"false\",\"columnshadow\":\"\",\"columnclass\":\"\",\"columnid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"id\":\"4fe33a41-3e3b-4d95-867b-9d270768c288\",\"isHidden\":false,\"type\":\"z-column\"}],\"id\":\"c34641b3-6eb6-4ef0-830b-a0b6053b7287\",\"width\":\"1\\\/1\"}],\"id\":\"bfc318c5-f152-4fa8-8cc7-8b3726e13934\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"columnwidth\":\"\",\"tabletwidth\":\"\",\"mobilewidth\":\"\",\"columnheight\":\"\",\"columnminheight\":\"\",\"columnmaxheight\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"columnstyle\":\"none\",\"columncardsize\":\"\",\"columncardhover\":\"false\",\"columncardcolor\":\" uk-card-default\",\"columntile\":\"\",\"columnbackground\":\"\",\"columntextcolor\":\" uk-light\",\"backgroundstyle\":\"color\",\"backgroundimage\":[],\"backgroundimageposition\":\" uk-background-center-center\",\"backgroundimagesize\":\" uk-background-cover\",\"backgroundimagerepeat\":\" no-repeat\",\"backgroundparalax\":\"\",\"mediavideosource\":\"url\",\"mediavideo\":[],\"mediavideourl\":\"\",\"backgroundoverlaycolor\":\"rgba(0,0,0,0.3)\",\"backgroundgradientoverlay\":\"false\",\"backgroundgradienttransition\":\"\",\"backgroundoverlaycolor2\":\"rgba(0,0,0,0.3)\",\"columnpadding\":\"\",\"itemfirst\":\"\",\"itemlast\":\"\",\"borderrounded\":\"false\",\"columnshadow\":\"\",\"columnclass\":\"\",\"columnid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"id\":\"d485151a-0a48-4185-bcbc-b0d9c632b3b5\",\"isHidden\":false,\"type\":\"z-column\"},{\"content\":{\"level\":\"h2\",\"text\":\"Rezeptbestellung\",\"headingsize\":\" uk-h1\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"c1689946-e1ed-4d83-a2e4-57477cc6bb99\",\"isHidden\":false,\"type\":\"heading\"},{\"content\":{\"text\":\"<p>Sie sind bereits PatientIn bei uns und m&ouml;chten keinen umfangreichen Termin, sondern lediglich ein Rezept bei Ihrer Hausarztpraxis bestellen? Dann rufen Sie unter <a href=\\\"tel:+49402272780\\\">040 &ndash; 22 72 78 0<\\\/a> an oder f&uuml;llen das folgende Formular <strong>unter Angabe Ihres Geburtsdatums<\\\/strong> aus:<\\\/p>\"},\"id\":\"b3d5d5a1-465a-4225-9b3f-194c92d432db\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"2fd15ad1-e930-4d82-8657-62e5ab082a0e\",\"width\":\"1\\\/1\"}],\"id\":\"826a87a1-87a9-4b73-b9eb-deafa9ab0c8d\"}]","title":""},"id":"5eb6828f-49e8-459e-9003-37204ab208c9","isHidden":false,"type":"subgrid"}],"id":"92ea9d54-43ea-43df-8367-9631f6c76c9a","width":"1\/1"}],"id":"d5f86360-af1c-4e16-a2df-3d92ecc78bfd"},{"attrs":{"gridwidth":"uk-container uk-container-small","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"false","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":[],"id":"adc6f267-a037-4173-9d3f-eb0a26b734db","isHidden":false,"type":"rezept-form"}],"id":"79c47ff5-84a0-401b-a00f-518424e9f6b4","width":"1\/1"}],"id":"2a0e35ef-0348-4a81-a4ff-73d958b05e6e"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: uk-background-center-center
+
+----
+
+Megamenubackgroundimagesize: uk-background-cover
+
+----
+
+Megamenubackgroundimagerepeat: no-repeat
+
+----
+
+Megamenubackgroundoverlaycolor: rgba(0,0,0,0.3)
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Megamenubackgroundoverlaycolor2: rgba(0,0,0,0.3)
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: false
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Headerbackgroundtoggle: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: rgba(0,0,0,0.2)
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Shapedividercolor: #ffffff
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 150px
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: 5FVoCdzjmSqanZ3z

@@ -1,0 +1,9 @@
+Uuid: ooJ7XyyEwMun4HYN
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

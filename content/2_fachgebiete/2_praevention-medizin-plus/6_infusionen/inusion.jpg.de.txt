@@ -1,0 +1,9 @@
+Uuid: 9Gvbi4RNDlRLQ4OM
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

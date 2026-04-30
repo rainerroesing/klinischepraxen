@@ -1,0 +1,49 @@
+Title: Neues Leitungsteam
+
+----
+
+Date: 2026-02-01 08:00:00
+
+----
+
+Author: 
+
+----
+
+Desc: Gemeinsam in die Zukunft: Neue ärztliche Leitung in den Klinischen Praxen
+
+----
+
+Text: [{"content":{"text":"","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"0e7256ed-7ae6-4e8a-bb3a-3d490af07f02","isHidden":false,"type":"text"},{"content":{"text":"<p>Unser medizinisches Versorgungszentrum steht seit Beginn des Jahres 2026 unter gemeinsamer \u00e4rztlicher Leitung von <strong>Dr. Anna-Lena Lange, Dr. Nicolai Kr\u00e4u\u00dflich und Dr. Maximilian Lange<\/strong>. Das neue Leitungsteam verbindet fach\u00e4rztliche Vielfalt mit einem klaren Fokus auf moderne, interdisziplin\u00e4re Medizin.<\/p><p>Unter dem Leitsatz <strong>\u201eAegroti salus suprema lex\u201c \u2013 die Gesundheit unserer Patientinnen und Patienten ist unser h\u00f6chstes Gut<\/strong> setzen wir unsere Arbeit mit Engagement, Kollegialit\u00e4t und einem ganzheitlichen Blick auf Ihre Gesundheit fort.<\/p><p>Haus\u00e4rztlich und pneumologisch begleiten wir Sie an unseren Standorten im Graumannsweg und in der Hansastra\u00dfe. Am Standort Hansastra\u00dfe steht Ihnen dar\u00fcber hinaus eine moderne Ausstattung f\u00fcr die gastroenterologische Diagnostik und Behandlung zur Verf\u00fcgung, einschlie\u00dflich Magen- und Darmspiegelungen. Am Standort Mittelweg b\u00fcndeln wir unsere Kompetenzen in der Pr\u00e4ventionsmedizin, Neurologie, Psychiatrie und Kardiologie.<\/p><p>Wir freuen uns darauf, Sie weiterhin vertrauensvoll zu begleiten.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"53a85f25-ddfc-4a97-b7aa-f72c56d340f5","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":[{"id":"neue_leitung_klinische-praxen.jpg"}],"src":"","ratio":"","alt":"","resizewidth":null,"caption":"Dr. Nicolai Kr\u00e4u\u00dflich, Dr. Anna-Lena Lange, Dr. Maximilian Lange","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":"","linkoption":"","link":"","newtab":"false"},"id":"70b6f9c4-0fdf-470b-887b-d0f56434443c","isHidden":false,"type":"image"},{"content":{"linestyle":"uk-divider-icon"},"id":"5f6056c4-bc2c-44fc-8b17-5f1016ca812f","isHidden":false,"type":"line"},{"content":{"level":"h2","text":"","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"04d122de-f9da-4756-850d-73201ec9c1a1","isHidden":false,"type":"heading"},{"content":{"text":"\"Die Klinischen Praxen stehen f\u00fcr ein Verlagerung von hochwertiger Medizin in den ambulanten Sektor.\"<br><br>Dr. Nicolai Kr\u00e4u\u00dflich<br>","citation":""},"id":"fbf53671-3a09-4ccf-bacb-184f2fb7dcd1","isHidden":false,"type":"quote"},{"content":{"videosource":"upload","videofile":["file:\/\/pWQWrRXssHA71nE5"],"url":"","caption":"Dr. Nicolai Kr\u00e4u\u00dflich \u00fcber ganzheitliche Medizin in den Klinischen Praxen","poster":["file:\/\/oQewpjUmYoAvMn2m"]},"id":"a04ba3c2-a9df-405b-ba5c-3534790b7c16","isHidden":false,"type":"video"}]
+
+----
+
+Cover: - file://BqjvwokUw2Qb86y5
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: Über uns
+
+----
+
+Tags: über uns, News, Firmenphilosophie
+
+----
+
+Featured: no
+
+----
+
+Uuid: TN7bk1OSVIjWGevs

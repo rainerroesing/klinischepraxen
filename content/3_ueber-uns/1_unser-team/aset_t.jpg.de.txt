@@ -1,0 +1,9 @@
+Uuid: 70ykMgMfjrgx43aY
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

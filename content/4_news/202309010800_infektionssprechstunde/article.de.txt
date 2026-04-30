@@ -1,0 +1,49 @@
+Title: Infektionssprechstunde
+
+----
+
+Date: 2023-09-01 08:00:00
+
+----
+
+Author: 
+
+----
+
+Desc: Sprechstunde für PatientInnen mit Infekten
+
+----
+
+Text: [{"content":{"text":"<p>Die k\u00e4ltere und n\u00e4ssere Jahreszeit steht uns bevor. Wir r\u00fccken zusammen auf engerem Umfeld. Wir sind h\u00e4ufiger in geschlossenen R\u00e4umen. Die objektive Ansteckungsgefahr steigt. Wir erinnern uns an die umf\u00e4nglichen Infektionsschutzma\u00dfnahmen aus der harten CORONA-Zeit. Jetzt scheint eine\u00a0 neue Corona-Welle \u2013 wie gro\u00df sie auch seien wird - sich aufzubauen und gleichzeitig gibt es viele Erk\u00e4ltungsinfekte unterschiedlicher Ursache. Bitte erw\u00e4gen Sie eine Impfung gegen Influenza(Grippe) und COVID 19.<\/p><p>Bei unseren <strong>Sprechstunden<\/strong> versuchen wir das <u>gegenseitige Infektionsrisiko<\/u> zu minimieren. Deshalb bieten wir gesonderte Sprechzeiten f\u00fcr Erk\u00e4ltungs- und Infektpatienten an. Bitte melden Sie sich mit Ihren Symptomen \u00fcber <a href=\"https:\/\/www.doctolib.de\/medizinisches-versorgungszentrum-mvz\/hamburg\/klinische-praxen-hamburg\/booking\/specialities?profile_skipped=true\" target=\"_blank\" rel=\"noopener noreferrer\">Doctolib<\/a>, die Mailadresse oder telefonisch an. Sie werden bevorzugt bez\u00fcglich dieser Symptome behandelt. Vermeiden Sie bitte jeden unn\u00f6tigen Kontakt und tragen bitte eine FFP2-Maske beim Betreten der Praxis, die Sie gern behandeln m\u00f6chte.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"0e7256ed-7ae6-4e8a-bb3a-3d490af07f02","isHidden":false,"type":"text"}]
+
+----
+
+Cover: - file://x6wtDrXC8Q1x5y4y
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: Allgemeinmedizin
+
+----
+
+Tags: Grippe, Infektionen, Erkältung, COVID19, Sprechstunde
+
+----
+
+Featured: no
+
+----
+
+Uuid: COgmAsbKiU8QZlO5

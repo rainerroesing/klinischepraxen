@@ -1,0 +1,29 @@
+{
+  "name": "kirby-tinymce-field",
+  "description": "Integrates the powerful TinyMCE wysiwyg editor into Kirby 3.",
+  "main": "index.js",
+  "author": "oweb studio <contact@owebstudio.com> (https://owebstudio.com)",
+  "license": "MIT",
+  "scripts": {
+    "dev": "npx -y kirbyup src/index.js --watch",
+    "build": "npx -y kirbyup src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:owebstudio/kirby-tinymce-field.git"
+  },
+  "posthtml": {
+    "recognizeSelfClosing": true
+  },
+  "dependencies": {
+    "@tinymce/tinymce-vue": "^3.2.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@vue/component-compiler-utils": "^3.3.0",
+    "babel-plugin-transform-regenerator": "^6.26.0",
+    "regenerator-runtime": "^0.13.11",
+    "vue-hot-reload-api": "^2.3.4",
+    "vue-template-compiler": "^2.7.14"
+  }
+}

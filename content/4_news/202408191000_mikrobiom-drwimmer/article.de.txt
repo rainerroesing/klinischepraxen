@@ -1,0 +1,49 @@
+Title: Dr. Manchot & Dr. Wimmer über Darmgesundheit
+
+----
+
+Date: 2024-08-19 10:00:00
+
+----
+
+Author: 
+
+----
+
+Desc: Fokus Mikrobiom: Dr. Johannes Wimmer im Gespräch mit unserer Ernährungsmedizinerin Dr. Britta Manchot
+
+----
+
+Text: [{"content":{"text":"<p>Was ist eigentlich das <strong>Mikrobiom<\/strong> und welche Lebensmittel sind f\u00fcr den Darm besonders gut und welche eher nutzlos?<\/p><p><strong>Dr. Johannes Wimmer<\/strong> und unsere Ern\u00e4hrungsmedizinerin <strong>Dr. Britta Manchot<\/strong> greifen diese und weitere Fragen in dem <a href=\"https:\/\/www.youtube.com\/watch?v=QfsyVBNT60Q\" target=\"_blank\" rel=\"noopener noreferrer\">Video<\/a> auf und geben Ern\u00e4hrungstipps f\u00fcr eine gesunde Darmflora.<\/p><p><\/p><p>Hinweis: Hinter der Video-Reihe <a href=\"https:\/\/www.youtube.com\/watch?v=QfsyVBNT60Q\" target=\"_blank\" rel=\"noopener noreferrer\">\"Von Doc zu Doc\"<\/a> steht die Techniker Krankenkasse. Das Interview mit Frau Dr. Manchot war unentgeltlich und unabh\u00e4ngig.<\/p><p><\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"0e7256ed-7ae6-4e8a-bb3a-3d490af07f02","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":[{"id":"mikrobiom_wimmer_manchot_still.jpg"}],"src":"","ratio":"","alt":"Dr. Johannes Wimmer und Dr. Britta Manchot sprechen \u00fcber Darmgesundheit und erkl\u00e4ren das Mikrobiom","resizewidth":null,"caption":"","captionclass":"false","width":"","widthmobile":"","align":"","float":"","borderradius":"","shadow":"","linkoption":"link","link":"https:\/\/www.youtube.com\/watch?v=QfsyVBNT60Q","newtab":"true"},"id":"7e89dce7-c21d-4e2e-a131-b978bf4242a6","isHidden":false,"type":"image"},{"content":{"text":"mehr \u00fcber die Ern\u00e4hrungsmedizin mit Dr. Britta Manchot","buttonicon":"arrow-right","linktype":"internal","link":"","internalpage":["page:\/\/uwYEGFEhJE1anbWQ"],"filelink":[],"emaillink":"","phonelink":"","target":"false","buttonstyle":" uk-button-default","buttonsize":"","margintop":" uk-margin-small-top"},"id":"35161f75-4afc-4302-83b3-4cb4e2197e26","isHidden":false,"type":"button"},{"content":{"linestyle":""},"id":"f85b3cb1-4704-4b1e-9876-4ff360b6f6c1","isHidden":false,"type":"line"}]
+
+----
+
+Cover: - file://dxcCDAzCrAEzWMTb
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: Ernährungsmedizin
+
+----
+
+Tags: Mikrobiom, Übergewicht, Darm, Video, Ernährungsmedizin
+
+----
+
+Featured: no
+
+----
+
+Uuid: bZIISnxDEB1oLhxo

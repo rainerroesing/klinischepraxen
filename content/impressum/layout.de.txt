@@ -1,0 +1,161 @@
+Title: Impressum
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container uk-container-xsmall","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h2","text":"Impressum","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"7ee7f32d-9dce-4755-9987-c6dfdf02948a","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Angaben gema\u0308&szlig; &sect; 5 TMG <\/strong><\/p>\n<p>Klinische Praxen Dres. Lange &amp; Dr. Kr&auml;u&szlig;lich MVZ GmbH<br \/>Hansastra&szlig;e 2-3<br \/>20149 Hamburg<\/p>\n<p>Handelsregister: HRB 176510 Registergericht: Hamburg<\/p>\n<p><strong>Vertreten durch: <\/strong><\/p>\n<p>Dr. med. Maximilian Lange<br \/>Dr. med. Anna-Lena Lange<br \/>Dr. med. Nicolai Kr&auml;u&szlig;lich<\/p>\n<p><strong>Kontakt <\/strong><\/p>\n<p>Telefon: 040 &ndash; 22 72 78 0 <br \/>Telefax: 040 22 72 78 78<br \/>E-Mail: info@klinische-praxen.de<\/p>\n<p><strong>Weitere Standorte<br \/><\/strong><\/p>\n<p>Klinische Praxen Dres. Lange &amp; Dr. Kr&auml;u&szlig;lich MVZ GmbH<br \/>Graumannsweg 21<br \/>22087 Hamburg<\/p>\n<p>Klinische Praxen Dres. Lange &amp; Dr. Kr&auml;u&szlig;lich MVZ GmbH<br \/>Mittelweg 162<br \/>20148 Hamburg<\/p>\n<p><strong>Aufsichtsbeho\u0308rde <\/strong><\/p>\n<p>Kassena\u0308rztliche Vereinigung Hamburg <br \/>Humboldtstra&szlig;e 56<br \/>22083 Hamburg<\/p>\n<p>https:\/\/www.kvhh.net\/<\/p>\n<p><strong>Berufsbezeichnung und berufsrechtliche Regelungen <\/strong><\/p>\n<p><strong>Berufsbezeichnung:<\/strong><\/p>\n<p>Dr. med. Maximilian Lange: Facharzt f&uuml;r Innere Medizin und Gastroenterologie (verliehen in der Bundesrepublik Deutschland)<\/p>\n<p>Dr. med. Anna-Lena Lange: Fach&auml;rztin f&uuml;r Neurologie (verliehen in der Bundesrepublik Deutschland)<\/p>\n<p>Dr. med Nicolai Kr&auml;u&szlig;lich: Internist (verliehen in der Bundesrepublik Deutschland)<\/p>\n<p>Dr. med. Gerhard Lange-Manchot: Facharzt f&uuml;r Allgemeinmedizin (verliehen in der Bundesrepublik Deutschland)<\/p>\n<p>Dr. med. Britta Manchot MSc: Fach&auml;rztin f&uuml;r Allgemeinmedizin, Master of Science Preventive Medicine, Ern&auml;hrungsmedizin, Chirotherapie, Sportmedizin, Balneologie, Klimatologie, Akkupunktur, Geriatrie (verliehen in der Bundesrepublik Deutschland)<\/p>\n<p>Dr. med. Simon Molz: Facharzt f&uuml;r Kardiologie (verliehen in der Bundesrepublik Deutschland)<\/p>\n<p>Dr. med. J&ouml;rg Holzschneider: Internist, Pneumologe, Schlafmediziner, Allergologe, Naturheilkunde (verliehen in der Bundesrepublik Deutschland)<\/p>\n<p>Dr. med. Carl-Hermann Bothe: Facharzt f&uuml;r Innere Medizin und Gastroenterologie (verliehen in der Bundesrepublik Deutschland)<\/p>\n<p>Dr. med.&nbsp;Philomena Arrenberg: Fach&auml;rztin f&uuml;r Neurologie (verliehen in der Bundesrepublik Deutschland)<\/p>\n<p>Adam Mesel: Facharzt f&uuml;r Allgemeinmedizin (verliehen in der Bundesrepublik Deutschland)<\/p>\n<p>Dr. med. Anne Rosahl: Fach&auml;rztin f&uuml;r Innere Medizin, Palliativmedizin, Ern&auml;hrungsmedizin (verliehen in der Bundesrepublik Deutschland)<\/p>\n<p class=\"uk-text-normal uk-text-center uk-margin-remove-bottom\">Dr. Christian Metzger: Facharzt f&uuml;r Neurologie &amp; Psychiatrie (verliehen in der Bundesrepublik Deutschland)<\/p>\n<p class=\"uk-text-normal uk-text-center uk-margin-remove-bottom\">Dr. Sopie Lange: Fach&auml;rztin f&uuml;r Allgemeinmedizin (verliehen in der Bundesrepublik Deutschland)<\/p>\n<p>Assistenz&auml;rzte:<br \/>Dr. phil. Heike Fielmann: &Auml;rztin (verliehen in der Bundesrepublik Deutschland)<\/p>\n<p>&nbsp;<\/p>\n<p><strong>Zusta\u0308ndige Kammer: <br \/><\/strong>A\u0308rztekammer Hamburg <br \/>Weidestra&szlig;e 122b <br \/>22083 Hamburg<\/p>\n<p>Es gelten folgende berufsrechtliche Regelungen:<\/p>\n<p>Berufsordnung der Hamburger A\u0308rztinnen und A\u0308rzte der A\u0308rztekammer Hamburg <br \/>Hamburgischen Kammergesetz fu\u0308r die Heilberufe (HmbKGH) <br \/>Weiterbildungsordnung der Landesa\u0308rztekammer Hamburg einsehbar unter:<br \/>https:\/\/www.aerztekammer-hamburg.org\/rechtsvorschriften.html<\/p>\n<p><strong>Angaben zur Berufshaftpflichtversicherung <\/strong><\/p>\n<p><strong>Name und Sitz des Versicherers: <\/strong><\/p>\n<p>HDI Versicherung AG <br \/>HDI-Platz 1<br \/>30659 Hannover<\/p>\n<p>Telefon: +49 511 645-0<br \/>E-Mail: info@hdi.de<\/p>\n<p><strong>Geltungsraum der Versicherung: <\/strong><\/p>\n<p>Deutschland<\/p>\n<p><strong>Redaktionell verantwortlich <\/strong><\/p>\n<p>Dr. med. Maximilian Lange<br \/>Dr. med. Anna-Lena Lange<br \/>Dr. med. Nicolai Kr&auml;u&szlig;lich<\/p>\n<p><strong>EU-Streitschlichtung <\/strong><\/p>\n<p>Die Europa\u0308ische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https:\/\/ec.europa.eu\/consumers\/odr\/.<br \/>Unsere E-Mail-Adresse finden Sie oben im Impressum.<\/p>\n<p><strong>Verbraucherstreitbeilegung\/Universalschlichtungsstelle <\/strong><\/p>\n<p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.<\/p>"},"id":"3a3f20cc-04e5-443d-9cd6-6a65285c7c07","isHidden":false,"type":"tinymce"}],"id":"9a190c7d-ad6c-47c5-a2ff-293afabaf6ce","width":"1\/1"}],"id":"85864cd2-8cae-4b39-a1e2-0e8068a20157"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: uk-background-center-center
+
+----
+
+Megamenubackgroundimagesize: uk-background-cover
+
+----
+
+Megamenubackgroundimagerepeat: no-repeat
+
+----
+
+Megamenubackgroundoverlaycolor: rgba(0,0,0,0.3)
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Megamenubackgroundoverlaycolor2: rgba(0,0,0,0.3)
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Headerbackgroundtoggle: true
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-dark
+
+----
+
+Headeroverlaycolor: #edebe4
+
+----
+
+Backgroundparalax: 
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Shapedividercolor: #ffffff
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 150px
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: 87x5J1O5l1XWvKz4

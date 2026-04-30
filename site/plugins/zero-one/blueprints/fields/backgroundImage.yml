@@ -1,0 +1,11 @@
+label: 
+  en: Image
+  de: Bild
+type: files
+multiple: false
+uploads: image
+query: site.index(true).images
+info: "{{ file.dimensions }} {{ file.niceSize }}"
+image:
+  ratio: 2/1
+  cover: true

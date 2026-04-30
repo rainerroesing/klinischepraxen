@@ -1,0 +1,110 @@
+//
+// Component: Table
+//
+// ========================================================================
+
+
+// Variables
+// ========================================================================
+
+@table-row-active-background:                           fade(@global-primary-background, 8%);
+
+
+
+// Component
+// ========================================================================
+
+.hook-table-header-cell() {}
+
+.hook-table-cell() {}
+
+.hook-table-footer() {}
+
+.hook-table-caption() {}
+
+.hook-table-row-active() {}
+
+
+// Style modifiers
+// ========================================================================
+
+.hook-table-divider() {}
+
+.hook-table-striped() {}
+
+.hook-table-hover() {}
+
+
+// Size modifier
+// ========================================================================
+
+.hook-table-small() {}
+
+.hook-table-large() {}
+
+
+// Miscellaneous
+// ========================================================================
+
+.hook-table-misc() {}
+
+
+// Inverse
+// ========================================================================
+
+.hook-inverse-table-header-cell() {}
+.hook-inverse-table-caption() {}
+.hook-inverse-table-row-active() {}
+.hook-inverse-table-divider() {}
+.hook-inverse-table-striped() {}
+.hook-inverse-table-hover() {}
+
+
+// Checkup Table
+
+.checkup-table {
+  max-width: 440px;
+  border-bottom: 20px solid #eceff1;
+  p {
+    margin: 0px;
+  }
+  table {
+    border: 0px solid #DEDEDF;
+    height: 100%;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    text-align: left;
+
+    th {
+        border: 0px solid #DEDEDF;
+        background-color: #ECEFF1;
+        color: #42557B;
+        padding: 10px 12px;
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 0.05rem;
+        height: 50px;
+        &:first-of-type {
+          width: 42%;
+        }
+        div {
+          font-size: 13px;
+          font-weight: 400;
+          margin-top: -5px;
+          text-transform: none;
+        }
+      }
+      td {
+        border: 1px solid #ECEFF1;
+        background-color: #FFFFFF;
+        color: #42557B;
+        padding: 10px 12px;
+        text-align: center;
+        font-size: 0.8rem;
+        height:50px;
+        font-weight: 500;
+      }
+  }
+}

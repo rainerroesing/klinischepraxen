@@ -1,0 +1,9 @@
+Uuid: mtPnB2Ta3nuRka5a
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

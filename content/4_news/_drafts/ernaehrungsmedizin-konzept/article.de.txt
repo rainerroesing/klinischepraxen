@@ -1,0 +1,49 @@
+Title: Neue Ernährungsmedizinischen Konzepte
+
+----
+
+Date: 2023-05-04 17:20:00
+
+----
+
+Author: 
+
+----
+
+Desc: Es gibt neue Medikamente zur Therapie des Übergewichts mit großen Erfolgsquoten.
+
+----
+
+Text: [{"content":{"text":"<p>Bekannt wurden sie als sogenannte \u201eHollywood-Di\u00e4t\u201c, weil viele Prominente (u.a. Kim Kardashian oder Elon Musk) damit innerhalb kurzer Zeit viel Gewicht reduziert haben sollen. In den USA wird das Medikament unter dem Namen \u201eWegovy\u201c vertrieben.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"d6336014-2305-4ffd-af6c-0c610ab8f416","isHidden":false,"type":"text"},{"content":{"text":"<p>Die deutsche Version hei\u00dft \u201e<strong>Ozempic<\/strong>\u201c und ist ein verschreibungspflichtiges Medikamente zur Behandlung von Diabetes. Beide enthalten den <strong>Wirkstoff Liraglutid<\/strong>, der den nat\u00fcrlichen Hormonen im K\u00f6rper \u00e4hnelt, die den <strong>Appetit z\u00fcgeln und den Blutzuckerspiegel regulieren<\/strong>.<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"e979025a-ddee-4c4e-b5af-13bed17dcd5f","isHidden":false,"type":"text"},{"content":{"text":"<p>Saxenda wird t\u00e4glich als Injektion verabreicht und sollte in Verbindung mit einer kalorienreduzierten Ern\u00e4hrung und k\u00f6rperlicher Aktivit\u00e4t eingenommen werden. Es hilft, das S\u00e4ttigungsgef\u00fchl zu f\u00f6rdern, den Hunger zu reduzieren und den<\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"08e6bd25-8921-4a3a-9198-ea2216646695","isHidden":false,"type":"text"}]
+
+----
+
+Cover: - file://w6tzB0eybV0fUfiq
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: Medikamente
+
+----
+
+Tags: 
+
+----
+
+Featured: no
+
+----
+
+Uuid: dLAOYDPlMS7qO8sw

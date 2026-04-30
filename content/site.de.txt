@@ -1,0 +1,1095 @@
+Title: Klinische Praxen
+
+----
+
+Author: Klinische Praxen
+
+----
+
+Twitteruser: 
+
+----
+
+Email: info@klinische-praxen.de
+
+----
+
+Favicon:
+
+- 
+  id: lange-manchot-logo.png
+
+----
+
+Logo: - file://MRanMzrFbDoW9I9F
+
+----
+
+Logoinverted: 
+
+----
+
+Logomobile: - file://0v5Q8Bl1uVCBn8yt
+
+----
+
+Logomobileinverted: 
+
+----
+
+Logoheight: 100
+
+----
+
+Mobilelogoheight: 100
+
+----
+
+Navbarwidth: large
+
+----
+
+Menuposition: center
+
+----
+
+Sticky: 
+
+----
+
+Rightnav: icons
+
+----
+
+Languagenav: false
+
+----
+
+Languagenavmobile: true
+
+----
+
+Searchicon: true
+
+----
+
+Searchiconmobile: false
+
+----
+
+Additionalicontoggle: false
+
+----
+
+Additionalicon: eye
+
+----
+
+Additionaliconlink: 
+
+----
+
+Moreicon:
+
+<p style="margin: 0;">Praxis</p>
+<h3 class="uk-h2" style="margin:0;"><strong>Graumannsweg</strong></h2>
+<div style="display: flex; flex-direction: column; margin-top:10px;">
+<strong>Sprechzeiten</strong>
+Montag: 08-17 Uhr<br>
+Dienstag: 08-19 Uhr<br> 
+Mittwoch: alle zwei Wochen 07-13 Uhr / 08-13Uhr zweiwöchentlich im Wechsel<br> 
+Donnerstag: 08-18 Uhr<br>
+Freitag: 08-13 Uhr<br> 
+</div>
+<div style="display: flex; flex-direction: column; margin-top:10px;">
+<strong>Adresse</strong>
+Graumannsweg 21<br>
+22087 Hamburg<br>
+</div>
+<div style="display: flex; margin-top:10px;">
+<p style="width:70px; margin:0px;">Telefon</p><a href="tel+49402272780">040 - 22 72 78 0</a>
+</div>
+<div style="display: flex; border-bottom: 1px dotted white; padding-bottom:25px;">
+<p style="width:70px; margin:0px;">Fax </p><p style="margin:0px;">040 - 22 72 78 79</p>
+</div>
+
+<p style="margin: 0; padding-top:35px;">Praxis</p>
+<h3 class="uk-h2" style="margin:0;"><strong>Hansastraße</strong></h2>
+
+<div style="display: flex; flex-direction: column; margin-top:10px;">
+<strong>Sprechzeiten</strong>
+Montag, Dienstag, Donnerstag: 08-18 Uhr<br>
+Mittwoch, Freitag: 08-13 Uhr<br>
+Samstag: 09-14 Uhr (Notfallsprechstunde)<br>
+</div>
+<div style="display: flex; flex-direction: column; margin-top:10px;">
+<strong>Adresse</strong>
+Hansastraße 2-3<br> 
+20149 Hamburg<br>
+</div>
+<div style="display: flex; margin-top:10px;">
+<p style="width:70px; margin:0px;">Telefon</p><a href="tel+49402272780">040 - 22 72 78 0</a>
+</div>
+<div style="display: flex; border-bottom: 1px dotted white; padding-bottom:25px;">
+<p style="width:70px; margin:0px;">Fax </p><p style="margin:0px;">040 - 22 72 78 78</p>
+</div>
+
+<p style="margin: 0; padding-top:35px;">Praxis</p>
+<h3 class="uk-h2" style="margin:0;"><strong>Mittelweg</strong></h2>
+
+<div style="display: flex; flex-direction: column; margin-top:10px;">
+<strong>Sprechzeiten</strong>
+Montag: 08-18 Uhr<br>
+Dienstag, Donnerstag: 08-17 Uhr<br>
+Mittwoch, Freitag: 08-14 Uhr<br>
+</div>
+<div style="display: flex; flex-direction: column; margin-top:10px;">
+<strong>Adresse</strong>
+Mittelweg 162<br>
+20148 Hamburg 
+</div>
+<div style="display: flex; margin-top:10px;">
+<p style="width:70px; margin:0px;">Telefon</p><a href="tel+49402272780">040 - 22 72 78 0</a>
+</div>
+<div style="display: flex;">
+<p style="width:70px; margin:0px;">Fax </p><p style="margin:0px;">040 - 22 72 78 77</p>
+</div>
+
+----
+
+Menubuttontext: yydfdsfsdfsd
+
+----
+
+Menubuttonlink: 
+
+----
+
+Menubuttonstyle: 
+
+----
+
+Mobilenav: true
+
+----
+
+Mobilenavanimation: slide
+
+----
+
+Mobilemenuinfotext: 
+
+----
+
+Topbar: true
+
+----
+
+Topbartablet: 
+
+----
+
+Topbarmobile: 
+
+----
+
+Topbarleft: 
+
+----
+
+Topbarcenter: 
+
+----
+
+Topbarright: <a target="_blank" href="https://www.doctolib.de/medizinisches-versorgungszentrum-mvz/hamburg/klinische-praxen-hamburg/booking/specialities?profile_skipped=true" class=""><span uk-icon="icon: calendar; ratio: 1;" class="heroicons"></span>Termin vereinbaren</a><a href="tel:+49402272780"><span uk-icon="icon: receiver; ratio: 1;" class="heroicons"></span>(040) 227 278-0</a><a href="/rezeptbestellung"><span uk-icon="icon: file-text; ratio: 1;" class="heroicons"></span>Rezept bestellen</a>
+
+----
+
+Transparentnavbar: false
+
+----
+
+Navbarinverse: false
+
+----
+
+Headeralign: center
+
+----
+
+Headerwidth: default
+
+----
+
+Pageheadersize: uk-section-large
+
+----
+
+Pagetitlecolor: 
+
+----
+
+Pagetitlesize: large
+
+----
+
+Breadcrumbs: true
+
+----
+
+Headerimage: false
+
+----
+
+Header: 
+
+----
+
+Headerimageposition: uk-background-bottom-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: 
+
+----
+
+Headeroverlaycolor: #091a3833
+
+----
+
+Backgroundparalax: paralaxY
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 
+
+----
+
+Coverratio: false
+
+----
+
+Defaultcurrency: EUR
+
+----
+
+Defaultcurrencysymbol: €
+
+----
+
+Currencysymbolposition: false
+
+----
+
+Thousandseparator: .
+
+----
+
+Decimalseparator: ,
+
+----
+
+Snipcartswitch: false
+
+----
+
+Hidecart: false
+
+----
+
+Hidetotal: false
+
+----
+
+Snipcartapi: 
+
+----
+
+Snipcarttax: false
+
+----
+
+Productimageratio: 
+
+----
+
+Socialstyle: links
+
+----
+
+Social: 
+
+----
+
+Footerbuilder: content-builder
+
+----
+
+Footerstyle: columns
+
+----
+
+Footercolor: default
+
+----
+
+Footerwidth: 
+
+----
+
+Footercolumns:
+
+- 
+  columnwidth: uk-width-1-3@m
+  columnclass: ""
+  columntitle: Logo
+  columncontent: markdown
+  columneditor: ""
+  footercolumn: |
+    (image: klinische_praxen_kollegium_w.png class: uk-width-2-3)
+    
+    <span style="font-weight:300;">Die Klinischen Praxen Dres. Lange & Dr. Kräußlich sind ein modernes medizinisches Versorgungszentrum mit drei Standorten in Hamburg. Unsere MitarbeiterInnen der Allgemeinmedizin, Inneren Medizin, Kardiologie, Gastroenterologie, Neurologie & Psychiatrie arbeiten Hand in Hand für Ihre Gesundheit.</span>
+  columnhtml: ""
+  columncard: 'false'
+  columncardsize: ""
+  columncardhover: 'false'
+  columncardcolor: ""
+- 
+  columnwidth: uk-width-1-6@m
+  columnclass: footer-link
+  columntitle: Allgemein
+  columncontent: markdown
+  columneditor: ""
+  footercolumn: |
+    #### Allgemein
+    
+    (link: ueber-uns text: Über uns target: _blank)
+    (link: ueber-uns/karriere text: Karriere target: _blank)
+    (link: news text: News target: _blank)
+  columnhtml: ""
+  columncard: 'false'
+  columncardsize: ""
+  columncardhover: 'false'
+  columncardcolor: ""
+- 
+  columnwidth: uk-width-1-6@m
+  columnclass: footer-link
+  columntitle: Fachgebiete
+  columncontent: markdown
+  columneditor: ""
+  footercolumn: |
+    #### Fachgebiete
+    
+    (link: /fachgebiete/allgemeinmedizin text: Allgemeinmedizin target: _blank)
+    (link: /fachgebiete/praevention-medizin-plus text: Prävention target: _blank)
+    (link: /fachgebiete/kardiologie text: Kardiologie target: _blank)
+    (link: /fachgebiete/gastroenterologie text: Gastroenterologie target: _blank)
+    (link: /fachgebiete/lungenheilkunde-allergologie text: Lungenheilkunde target: _blank)
+    (link: /fachgebiete/neurologie text: Neurologie & Psychiatrie target: _blank)
+  columnhtml: ""
+  columncard: 'false'
+  columncardsize: ""
+  columncardhover: 'false'
+  columncardcolor: ' uk-card-default'
+- 
+  columnwidth: uk-width-1-6@m
+  columnclass: footer-link
+  columntitle: Service
+  columncontent: markdown
+  columneditor: ""
+  footercolumn: |
+    #### Services
+    
+    (link: https://www.doctolib.de/medizinisches-versorgungszentrum-mvz/hamburg/klinische-praxen-hamburg/booking/specialities?profile_skipped=true text: Terminbuchung target: _blank)
+    (link: kontakt text: Kontakt target: _blank)
+    (link: rezeptbestellung text: Rezeptbestellung target: _blank)
+  columnhtml: ""
+  columncard: 'false'
+  columncardsize: ""
+  columncardhover: 'false'
+  columncardcolor: ""
+- 
+  columnwidth: uk-width-1-6@m
+  columnclass: footer-link
+  columntitle: Rechtliches
+  columncontent: html
+  columneditor: ""
+  footercolumn: |
+    #### Rechtliches
+    
+    (link: impressum text: Impressum target: _blank)
+    (link: datenschutz text: Datenschutz target: _blank)
+  columnhtml: |
+    <h4>Rechtliches</h4>
+    <p><a href="https://klinische-praxen.de/impressum" rel="noopener noreferrer" target="_blank">Impressum</a><br>
+    <a href="https://klinische-praxen.de/datenschutz" rel="noopener noreferrer" target="_blank">Datenschutz</a><br>
+    <a href="#" id="open_preferences_center">Cookies-Einstellungen</a></p>
+  columncard: 'false'
+  columncardsize: ""
+  columncardhover: 'false'
+  columncardcolor: ""
+
+----
+
+Footercompacttext: [{"content":{"level":"h2","text":"Let\u2019s create something together","headingsize":"","headingstyle":"","headingcolor":"","textalign":"","textaligntablet":"","textalignmobile":"","texttransform":"","textwrapping":""},"id":"2281c115-ddf5-473e-bbeb-0cec48be68fc","isHidden":false,"type":"heading"},{"content":{"text":"If you have a website idea in mind or you need some advice about product design, feel free to <strong><a href=\"mailto:support@thezero.club\">contact me<\/a><\/strong>. Currently my time books quickly, so the sooner you write, the better it is for both of us.","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"b85e566c-5ffe-41f1-8975-7ea32e681a91","isHidden":false,"type":"text"}]
+
+----
+
+Backgroundimage: 
+
+----
+
+Backgroundimageposition: 
+
+----
+
+Backgroundimagesize: 
+
+----
+
+Backgroundimagerepeat: 
+
+----
+
+Footertextcolor: 
+
+----
+
+Subfootertoggle: true
+
+----
+
+Copyright: 
+
+----
+
+Animatefooter: true
+
+----
+
+Animateelement: 
+
+----
+
+Layout: 
+
+----
+
+Enablecookieconsent: false
+
+----
+
+Cookieconsenttype: modal
+
+----
+
+Privacypage: 
+
+----
+
+Cookieconsenttext: hjhhjhjhjhjhjhj
+
+----
+
+Cookieconsentbutton: okay
+
+----
+
+Cachebusting: false
+
+----
+
+Typedtext: false
+
+----
+
+Syntaxhighlighting: false
+
+----
+
+Pagetransitions: true
+
+----
+
+Metafile: 
+
+----
+
+Metatitle: Willkommen bei den Klinischen Praxen in Hamburg!
+
+----
+
+Metadescription: 
+
+----
+
+Labelreadmore: Weiterlesen ...
+
+----
+
+Labelpublished: Veröffentlicht am
+
+----
+
+Labelcategorytitle: Kategorie:
+
+----
+
+Labeltagtitle: Tag:
+
+----
+
+Labelarchivestitle: Archives:
+
+----
+
+Labelarchivetext: List of articles in
+
+----
+
+Labelarchivename: archive.
+
+----
+
+Labelbacktoblog: Zurück zu News
+
+----
+
+Labelprofile: Profil
+
+----
+
+Labelcategories: Kategorien
+
+----
+
+Labelarchive: Archiv
+
+----
+
+Labeltags: Stichworte
+
+----
+
+Labelstayconnected: In Verbindung bleiben
+
+----
+
+Labelsharearticle: Share
+
+----
+
+Labelrelatedarticle: Zum Thema passende Artikel
+
+----
+
+Labelnext: Nächster Artikel
+
+----
+
+Labelprev: Vorheriger Artikel
+
+----
+
+Labeltagged: Tagged
+
+----
+
+Labellatestposts: Neueste Beiträge
+
+----
+
+Labelpostedin: Veröffentlicht in
+
+----
+
+Labelwrittenby: Geschrieben von
+
+----
+
+Labelwrittenon: am
+
+----
+
+Labelcoauthors: Co-Autoren:
+
+----
+
+Labelcommentsheading: Tell us what you think
+
+----
+
+Labelprojectbutton: Discover
+
+----
+
+Labelnewer: Neuere Projekte ›
+
+----
+
+Labelolder: ‹ Ältere Projekte
+
+----
+
+Labelnextproject: Nächstes Projekt
+
+----
+
+Labelprevproject: Vorheriges Projekt
+
+----
+
+Labelsearchtext: Drücken Sie Enter/Return um die Suche zu starten.
+
+----
+
+Labelsearchnote: Sie suchten nach
+
+----
+
+Labelsearchplaceholder: Suchen...
+
+----
+
+Labelsearchnoresults: Keine Ergebnisse.
+
+----
+
+Labellanguagetitle: Choose website language
+
+----
+
+Labellanguagefooter: English is the main website language.
+
+----
+
+Labelemail: E-Mail
+
+----
+
+Labelname: Name
+
+----
+
+Labelmessage: Nachricht
+
+----
+
+Labelsubmit: Senden
+
+----
+
+Labelalertname: Geben Sie einen validen Namen an
+
+----
+
+Labelalertemail: Geben Sie eine valide E-Mail an
+
+----
+
+Labelalertmessage: Geben Sie zwischen 3 und 3000 Zeichen ein
+
+----
+
+Labelformerror: Das Formular konnte nicht versendet werden.
+
+----
+
+Labelformsuccess: Vielen Dank. Ihre Nachricht wird versendet. Wir melden uns schnellstmöglich bei Ihnen.
+
+----
+
+Labelemailsubject: Nachricht aus Kontakt-Formular
+
+----
+
+Labelformprivacy: Ich stimme den <a href="/datenschutz"><strong>Datenschutz-Richtlinien</strong></a> zu.
+
+----
+
+Labelstackedbutton: Learn more
+
+----
+
+Labelshopcategory: Category:
+
+----
+
+Labelshoptag: Tag:
+
+----
+
+Labelbacktoshop: Back to shop
+
+----
+
+Labelshoparchivetext: List of products in
+
+----
+
+Labelshoparchivename: archives.
+
+----
+
+Labelproductfeatured: Featured
+
+----
+
+Labelproductnew: New
+
+----
+
+Labelproductsold: Out of stock
+
+----
+
+Labelproductoptions: Select options
+
+----
+
+Labeladdtocart: Add to cart
+
+----
+
+Labelproductid: Product ID:
+
+----
+
+Labelproductcategory: Category:
+
+----
+
+Labelproducttag: Tags:
+
+----
+
+Labelproductshare: Share:
+
+----
+
+Labelproductdescription: Product description
+
+----
+
+Labeladditionalinformation: Additional information
+
+----
+
+Labelproductweight: Weight
+
+----
+
+Labelproductlength: Length
+
+----
+
+Labelproductheight: Height
+
+----
+
+Labelproductwidth: Width
+
+----
+
+Labelproductfree: Free
+
+----
+
+Labelproductprevious: Previous product
+
+----
+
+Labelproductnext: Next product
+
+----
+
+Labelproductrelated: You might also like
+
+----
+
+Labelproductsearchtitle: Products search
+
+----
+
+Labelproductsearchintro: Search through our products
+
+----
+
+Stylingswitcher: false
+
+----
+
+Siteshadows: false
+
+----
+
+Siteborderradius: false
+
+----
+
+Textcolor: #FDFAF6
+
+----
+
+Textemphasiscolor: #fff
+
+----
+
+Textmutedcolor: #F2DFC5
+
+----
+
+Textlinkcolor: #E8C99C
+
+----
+
+Defaultcolor: #091A38
+
+----
+
+Mutedcolor: #3A4862
+
+----
+
+Primarycolor: #E8C99C
+
+----
+
+Secondarycolor: #BFAF9B
+
+----
+
+Inversecolor: #574938
+
+----
+
+Bordercolor: #F2DFC5
+
+----
+
+Sitenavbarheight: 120
+
+----
+
+Sitenavbarstyle: top
+
+----
+
+Sitenavbarbackground: 
+
+----
+
+Sitedropdownbackground: #bfaf9b
+
+----
+
+Sitedropdowncolor: #574938
+
+----
+
+Sitedropdownhovercolor: #FDFAF6
+
+----
+
+Sitenavbarfont: 
+
+----
+
+Sitenavbarfontsize: 
+
+----
+
+Sitenavbarfontweight: 
+
+----
+
+Sitenavbartexttransform: 
+
+----
+
+Siteoffcanvascolormode: false
+
+----
+
+Siteoffcanvasmobilesize: 
+
+----
+
+Siteoffcanvasdesktopsize: 
+
+----
+
+Sitebuttonstyle: default
+
+----
+
+Sitebuttonborder: default
+
+----
+
+Customizebuttons: false
+
+----
+
+Fonturl: 
+
+----
+
+Textfontfamily: 'Fira Sans', sans-serif
+
+----
+
+Textfontsize: 16
+
+----
+
+Textfontweight: 400
+
+----
+
+Headingfontfamily: 'Fira Sans', sans-serif
+
+----
+
+Headingfontweight: 300
+
+----
+
+Headingtexttransform: inherit
+
+----
+
+Secondaryfontfamily: 'Lora', serif
+
+----
+
+Secondaryfontweight: 500
+
+----
+
+Secondaryfontstyle: normal
+
+----
+
+Baseh1size: 
+
+----
+
+Baseh2size: 
+
+----
+
+Baseh3size: 
+
+----
+
+Baseh4size: 
+
+----
+
+Basesmallsize: 
+
+----
+
+Customcss: 
+
+----
+
+Headcustomcode: 
+
+----
+
+Bodycustomcode: 
+
+----
+
+Footercustomcode: 
+
+----
+
+Mainmenubuilder: 
+
+----
+
+Labelsuccess: Success
+
+----
+
+Emailtext: 
+
+----
+
+Labelcaptcha: 
+
+----
+
+Labelcancel: Cancel
+
+----
+
+Labelwritttenon: on
+
+----
+
+Footercompact:
+
+[
+    {
+        "attrs": [],
+        "content": "",
+        "id": "_hwieca3da",
+        "type": "paragraph"
+    }
+]
+
+----
+
+Blogslug: News
+
+----
+
+Twitter: 
+
+----
+
+Twitter-user: @hellou
+
+----
+
+Appleicon: - 2018-skoda-superb-parked.jpeg
+
+----
+
+Favicon32: 
+
+----
+
+Favicon16: 
+
+----
+
+Msicon: 

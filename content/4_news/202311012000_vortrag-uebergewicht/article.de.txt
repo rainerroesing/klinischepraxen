@@ -1,0 +1,49 @@
+Title: Vortrag zum Thema Übergewicht
+
+----
+
+Date: 2023-11-01 20:00:00
+
+----
+
+Author: 
+
+----
+
+Desc: Unsere Ernährungsmedizinerin Dr. Manchot hat über die Ursachen und Behandlungsmöglichkeiten von starkem Übergewicht gesprochen.
+
+----
+
+Text: [{"content":{"text":"<p>Am <strong>01. November 2023<\/strong> hat Dr. Britta Manchot im Rahmen einer Info-Veranstaltung einen spannenden Vortrag zum Thema <strong>\"Starkes \u00dcbergewicht (Adipositas) und wie es sich behandeln l\u00e4sst\"<\/strong> gehalten.<\/p><p>Der Veranstalter war das Unternehmen novo nordisk, das Dr. Manchot als Ern\u00e4hrungsmedizinerin dazu eingeladen hatte, um Interessierten die Zusammenh\u00e4nge und Auswirkungen von starkem \u00dcbergewicht zu erl\u00e4utern. Nach dem informativen Vortrag, konnten die TeilnehmerInnen ihre pers\u00f6nlichen Fragen an die Expertin stellen.<\/p><p>Der Veranstaltungsort war das Maritim Hotel in Hamburg Eppendorf.<\/p><p><\/p><p><a href=\"https:\/\/klinische-praxen.de\/fachgebiete\/praevention-medizin-plus\/ernaehrungsmedizin\" target=\"_blank\" rel=\"noopener noreferrer\">--&gt; Mehr Informationen zu unserer Ern\u00e4hrungssprechstunde bei Dr. Manchot.<\/a><\/p><p><\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"0e7256ed-7ae6-4e8a-bb3a-3d490af07f02","isHidden":false,"type":"text"},{"content":{"videosource":"upload","videofile":["file:\/\/bu5UqXb5aUvIBDOV"],"url":"","caption":"","poster":["file:\/\/7QIv5zkJyyKBtqnu"]},"id":"0a107970-17d7-48d6-98c2-7c5fcd62450a","isHidden":false,"type":"video"}]
+
+----
+
+Cover: - file://PzQCYTOBeGYwXo4j
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: Ernährungsmedizin
+
+----
+
+Tags: Ernährungsmedizin, Adipositas, Übergewicht
+
+----
+
+Featured: no
+
+----
+
+Uuid: TgxE6nptS3faOSjY

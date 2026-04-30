@@ -1,0 +1,49 @@
+Title: Grippeschutzimpfungen ab 26.09.2023
+
+----
+
+Date: 2023-09-01 08:00:00
+
+----
+
+Author: 
+
+----
+
+Desc: Impfungen gegen Influenza (Grippe)
+
+----
+
+Text: [{"content":{"text":"<p>Der erste aktuelle Influenza-Impfstoff 2023\/2024 ist eingetroffen. Sie k\u00f6nnen diesen nach Terminvereinbarung ab sofort erhalten. Der Impfstoff f\u00fcr \u00e4ltere PatientInnen und HochrisikopatientInnen haben wir ebenfalls vorr\u00e4tig.<\/p><p>An folgenden Tagen k\u00f6nnen Sie ohne Anmeldung zur Grippeschutzimpfung w\u00e4hrend unseren \u00d6ffnungszeiten kommen:<\/p><p>\u00a0<\/p><p><u>Praxis Graumannsweg 21:<\/u><\/p><ul><li><p>26.09.2023 Dienstag<\/p><\/li><li><p>12.10.2023 Donnerstag<\/p><\/li><li><p>24.10.2023 Dienstag<\/p><\/li><\/ul><p><\/p><p><u>Praxis Hansastra\u00dfe 2-3<\/u><\/p><ul><li><p>28.09.2023 Donnerstag<\/p><\/li><li><p>10.10.2023 Dienstag<\/p><\/li><li><p>26.10.2023 Donnerstag<\/p><\/li><\/ul>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"0e7256ed-7ae6-4e8a-bb3a-3d490af07f02","isHidden":false,"type":"text"}]
+
+----
+
+Cover: - file://ql6jAlIO9E5AN3aj
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: Allgemeinmedizin
+
+----
+
+Tags: Grippeimpfung, Influenza
+
+----
+
+Featured: no
+
+----
+
+Uuid: qkJwNmFbGgBlYHAR

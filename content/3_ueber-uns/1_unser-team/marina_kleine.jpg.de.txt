@@ -1,0 +1,9 @@
+Uuid: rfmz4UKdXImIgBJG
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

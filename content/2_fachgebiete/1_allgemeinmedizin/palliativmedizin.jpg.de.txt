@@ -1,0 +1,9 @@
+Uuid: wvgfCmHYPRNTU3fa
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

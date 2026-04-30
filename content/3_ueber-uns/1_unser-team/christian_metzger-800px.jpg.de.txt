@@ -1,0 +1,9 @@
+Uuid: 31ngtQlJmE6I4OF5
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

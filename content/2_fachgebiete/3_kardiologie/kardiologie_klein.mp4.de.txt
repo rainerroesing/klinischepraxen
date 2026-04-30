@@ -1,0 +1,9 @@
+Uuid: 8EckOm03E4dGiRYP
+
+----
+
+Template: video
+
+----
+
+Sitemap: true

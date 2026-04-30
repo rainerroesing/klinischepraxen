@@ -1,0 +1,9 @@
+Uuid: HM9H9YQ45FD2kZ67
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

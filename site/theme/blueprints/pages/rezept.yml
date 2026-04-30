@@ -1,0 +1,48 @@
+title: Rezept Bestellung
+icon: wand
+
+tabs:
+  # content tab
+  content:
+    label:
+      en: Content
+      de: Inhalt
+    icon: text
+    columns:
+      # main
+      - width: 2/3
+        sections:
+          # main content
+          mainContent:
+            type: fields
+            fields:
+              mainContentHeadline:
+                label:
+                  en: Main section
+                  de: Hauptteil
+                type: headline
+                numbered: false
+              editor:
+                extends: fields/blockEditor
+              info:
+                label: Info
+                type: info
+                text:
+                  de: |
+                    Dieser Block zeigt das Rezeptformular an.
+
+      # sidebar
+      - width: 1/3
+        sections:
+          # pages
+          published:
+            extends: sections/page-published
+
+          draft:
+            extends: sections/page-draft
+
+  # header tab
+  header: tabs/page-options
+
+  # seo tab
+  seo: tabs/seo

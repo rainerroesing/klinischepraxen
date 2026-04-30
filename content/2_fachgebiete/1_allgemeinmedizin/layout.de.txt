@@ -1,0 +1,161 @@
+Title: Allgemeinmedizin
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container uk-container-medium","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-bottom","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"subgrid":"[{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"columnwidth\":\"\",\"tabletwidth\":\"\",\"mobilewidth\":\"\",\"columnheight\":\"\",\"columnminheight\":\"\",\"columnmaxheight\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"columnstyle\":\"none\",\"columncardsize\":\"\",\"columncardhover\":\"false\",\"columncardcolor\":\" uk-card-default\",\"columntile\":\"\",\"columnbackground\":\"\",\"columntextcolor\":\" uk-light\",\"backgroundstyle\":\"color\",\"backgroundimage\":[],\"backgroundimageposition\":\" uk-background-center-center\",\"backgroundimagesize\":\" uk-background-cover\",\"backgroundimagerepeat\":\" no-repeat\",\"backgroundparalax\":\"\",\"mediavideosource\":\"url\",\"mediavideo\":[],\"mediavideourl\":\"\",\"backgroundoverlaycolor\":\"rgba(0,0,0,0.3)\",\"backgroundgradientoverlay\":\"false\",\"backgroundgradienttransition\":\"\",\"backgroundoverlaycolor2\":\"rgba(0,0,0,0.3)\",\"columnpadding\":\"\",\"itemfirst\":\"\",\"itemlast\":\"\",\"borderrounded\":\"false\",\"columnshadow\":\"\",\"columnclass\":\"\",\"columnid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"true\",\"animationtype\":\"uk-animation-slide-left-small\",\"animationdelay\":null},\"id\":\"84b1e717-cd49-460b-b43c-403a3db178a0\",\"isHidden\":false,\"type\":\"z-column\"},{\"content\":{\"location\":\"kirby\",\"image\":[{\"id\":\"dr_gerhard_lange_manchot.jpg\"}],\"src\":\"\",\"ratio\":\"\",\"alt\":\"\",\"resizewidth\":null,\"caption\":\"Dr. Gerhard Lange-Manchot\",\"captionclass\":\"false\",\"width\":\"\",\"widthmobile\":\"\",\"align\":\"\",\"float\":\"\",\"borderradius\":\"\",\"shadow\":\"\",\"linkoption\":\"\",\"link\":\"\",\"newtab\":\"false\"},\"id\":\"720a5ffd-b6ea-4d95-8736-76a0fec38b88\",\"isHidden\":false,\"type\":\"image\"}],\"id\":\"4b8af87b-33f8-4d5c-a14a-a8b3c0d92e2f\",\"width\":\"1\\\/3\"},{\"blocks\":[{\"content\":{\"columnwidth\":\"\",\"tabletwidth\":\"\",\"mobilewidth\":\"\",\"columnheight\":\"\",\"columnminheight\":\"\",\"columnmaxheight\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"columnstyle\":\"none\",\"columncardsize\":\"\",\"columncardhover\":\"false\",\"columncardcolor\":\" uk-card-default\",\"columntile\":\"\",\"columnbackground\":\"\",\"columntextcolor\":\" uk-light\",\"backgroundstyle\":\"color\",\"backgroundimage\":[],\"backgroundimageposition\":\" uk-background-center-center\",\"backgroundimagesize\":\" uk-background-cover\",\"backgroundimagerepeat\":\" no-repeat\",\"backgroundparalax\":\"\",\"mediavideosource\":\"url\",\"mediavideo\":[],\"mediavideourl\":\"\",\"backgroundoverlaycolor\":\"rgba(0,0,0,0.3)\",\"backgroundgradientoverlay\":\"false\",\"backgroundgradienttransition\":\"\",\"backgroundoverlaycolor2\":\"rgba(0,0,0,0.3)\",\"columnpadding\":\" uk-padding-large\",\"itemfirst\":\"\",\"itemlast\":\"\",\"borderrounded\":\"false\",\"columnshadow\":\"\",\"columnclass\":\"\",\"columnid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"true\",\"animationtype\":\"\",\"animationdelay\":null},\"id\":\"d71aa0e0-b22f-4a05-9cdd-b53deb20ac95\",\"isHidden\":false,\"type\":\"z-column\"},{\"content\":{\"text\":\"<p><strong>Allgemeinmedizin \\\/ Hausarztmedizin<\\\/strong><\\\/p>\\n<p>Mit unserem Team aus haus&auml;rztlichen InternistInnen und AllgemeinmedizinerInnen bieten wir Ihnen eine umfassende und moderne Versorgung im urspr&uuml;nglichen Sinne der Hausarztmedizin. Wir stehen Ihnen immer gerne mit unserem breiten Leistungsspektrum und mit Rat und Tat zur Seite. In einer komplexer werdenden Medizin behalten wir den &Uuml;berblick &uuml;ber Ihre Erkrankungen und die Medikation.<\\\/p>\\n<p>F&uuml;r bettl&auml;gerige, gehbehinderte und aus dem Krankenhaus entlassene PatientInnen &uuml;bernehmen wir in Form von Hausbesuchen die haus&auml;rztliche Versorgung zu Hause.<\\\/p>\\n<p>F&uuml;r unsere Diagnostik nutzen wir neue und moderne Ultraschallger&auml;te sowie Laborger&auml;te, die uns die wichtigsten Notfallwerte f&uuml;r Entz&uuml;ndungen und Herzwerte innerhalb von 15 Minuten liefern.<\\\/p>\"},\"id\":\"a5d36ad9-3e48-4045-ad0b-b800fabde82b\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"1e54a169-0a1a-4f03-8032-ab12ae12c289\",\"width\":\"2\\\/3\"}],\"id\":\"a96cbdf4-9780-46bd-a05a-85aa70da6950\"}]","title":"Allgemeinmedizin Einleitung"},"id":"f97a163a-4d85-478f-b981-177bc3720dcb","isHidden":false,"type":"subgrid"}],"id":"4bc5fc14-46a8-457a-bacf-838eaca75b8a","width":"1\/1"}],"id":"0b4e8b0f-77eb-4ca3-b71a-4be9dd5cd48e"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-primary","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h2","text":"Was umfasst unsere moderne Hausarzt- und Allgemeinmedizin?","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":" uk-text-center","texttransform":"","textwrapping":""},"id":"f1eeef5d-c509-4887-9781-12388d2c67ce","isHidden":false,"type":"heading"},{"content":{"videosource":"upload","videofile":["file:\/\/HJq1wMvdbU4ST4tH"],"url":"","caption":"","poster":["file:\/\/uNSXMQqTq5NEMzrd"]},"id":"f84ad467-ab92-4129-9954-ea685209d351","isHidden":false,"type":"video"}],"id":"7b30ced0-a8e4-4719-84b0-3e9b267429cb","width":"1\/1"}],"id":"7c76a6c2-c89d-428c-ace5-f50c161cc934"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-large","sectioncolor":"custom","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-dark","backgroundoverlaycolor":"#faf8f2","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"true","shapedivider":"tilt-alt","shapedividerposition":"both","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"50px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"subgrid":"[{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"level\":\"h2\",\"text\":\"Unsere allgemeinmedizinischen Leistungen:\",\"headingsize\":\"\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\" uk-text-center@m\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"d315994d-56d2-4aae-a624-983842779fb5\",\"isHidden\":false,\"type\":\"heading\"}],\"id\":\"616417bb-ac6f-4c27-8f9c-6f89643dbdaf\",\"width\":\"1\\\/1\"}],\"id\":\"ff250cbf-fab7-4ff5-ac47-b575aa8e0629\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[],\"id\":\"cd86855c-c3ee-4c5f-9762-56301ee877e3\",\"width\":\"1\\\/1\"}],\"id\":\"d9351a11-76e3-4773-80f3-7e169398c86f\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\" uk-flex-center\",\"columngap\":\"\",\"columnsdivider\":\"true\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"columnwidth\":\"\",\"tabletwidth\":\"\",\"mobilewidth\":\"\",\"columnheight\":\"\",\"columnminheight\":\"\",\"columnmaxheight\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"columnstyle\":\"none\",\"columncardsize\":\"\",\"columncardhover\":\"false\",\"columncardcolor\":\" uk-card-default\",\"columntile\":\"\",\"columnbackground\":\"\",\"columntextcolor\":\" uk-light\",\"backgroundstyle\":\"color\",\"backgroundimage\":[],\"backgroundimageposition\":\" uk-background-center-center\",\"backgroundimagesize\":\" uk-background-cover\",\"backgroundimagerepeat\":\" no-repeat\",\"backgroundparalax\":\"\",\"mediavideosource\":\"url\",\"mediavideo\":[],\"mediavideourl\":\"\",\"backgroundoverlaycolor\":\"rgba(0,0,0,0.3)\",\"backgroundgradientoverlay\":\"false\",\"backgroundgradienttransition\":\"\",\"backgroundoverlaycolor2\":\"rgba(0,0,0,0.3)\",\"columnpadding\":\"\",\"itemfirst\":\"\",\"itemlast\":\"\",\"borderrounded\":\"false\",\"columnshadow\":\"\",\"columnclass\":\"\",\"columnid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"true\",\"animationtype\":\"uk-animation-slide-bottom-small\",\"animationdelay\":300},\"id\":\"250f2dfc-513b-4173-b970-ae1ce86f2cfe\",\"isHidden\":false,\"type\":\"z-column\"},{\"content\":{\"text\":\"<h4><strong>Abdomensonographie<br \\\/>(Bauchultraschall)<\\\/strong><\\\/h4>\"},\"id\":\"9c16309b-6547-49d5-afc1-2c5395065394\",\"isHidden\":false,\"type\":\"tinymce\"},{\"content\":{\"location\":\"kirby\",\"image\":[{\"id\":\"rosahl_bauchultraschall.jpg\"}],\"src\":\"\",\"ratio\":\"\",\"alt\":\"\",\"resizewidth\":null,\"caption\":\"\",\"captionclass\":\"false\",\"width\":\"\",\"widthmobile\":\"\",\"align\":\"\",\"float\":\"\",\"borderradius\":\"\",\"shadow\":\"\",\"linkoption\":\"\",\"link\":\"\",\"newtab\":\"false\"},\"id\":\"f4b19acb-c9db-47d1-a144-7c12acb62737\",\"isHidden\":false,\"type\":\"image\"},{\"content\":{\"text\":\"<p>Die Abdomensonographie (Bauchultraschall) ist eine hervorragende Methode zur Beurteilung der inneren Organe. Der Ultraschall ist direkt in der Sprechstunde verf&uuml;gbar, die Untersuchung dauert nur wenige Minuten, sie liefert hochaufl&ouml;sende Bilder und hat keine Strahlenbelastung.<\\\/p>\"},\"id\":\"fbff8ae6-a91f-4d9a-927e-dbb2d5e1527e\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"6b2fad07-7893-428a-878f-1222f7dd0ebc\",\"width\":\"1\\\/3\"},{\"blocks\":[{\"content\":{\"columnwidth\":\"\",\"tabletwidth\":\"\",\"mobilewidth\":\"\",\"columnheight\":\"\",\"columnminheight\":\"\",\"columnmaxheight\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"columnstyle\":\"none\",\"columncardsize\":\"\",\"columncardhover\":\"false\",\"columncardcolor\":\" uk-card-default\",\"columntile\":\"\",\"columnbackground\":\"\",\"columntextcolor\":\" uk-light\",\"backgroundstyle\":\"color\",\"backgroundimage\":[],\"backgroundimageposition\":\" uk-background-center-center\",\"backgroundimagesize\":\" uk-background-cover\",\"backgroundimagerepeat\":\" no-repeat\",\"backgroundparalax\":\"\",\"mediavideosource\":\"url\",\"mediavideo\":[],\"mediavideourl\":\"\",\"backgroundoverlaycolor\":\"rgba(0,0,0,0.3)\",\"backgroundgradientoverlay\":\"false\",\"backgroundgradienttransition\":\"\",\"backgroundoverlaycolor2\":\"rgba(0,0,0,0.3)\",\"columnpadding\":\"\",\"itemfirst\":\"\",\"itemlast\":\"\",\"borderrounded\":\"false\",\"columnshadow\":\"\",\"columnclass\":\"\",\"columnid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"true\",\"animationtype\":\"uk-animation-slide-bottom-small\",\"animationdelay\":600},\"id\":\"5ac49cec-e588-4a1c-bde6-bb455f76f0de\",\"isHidden\":false,\"type\":\"z-column\"},{\"content\":{\"text\":\"<h4><strong>Schilddr&uuml;sensonographie<br \\\/>(Ultraschall der Schilddr&uuml;se)<br \\\/><\\\/strong><\\\/h4>\"},\"id\":\"75705ed0-aeeb-43bb-971c-7381da9d3159\",\"isHidden\":false,\"type\":\"tinymce\"},{\"content\":{\"location\":\"kirby\",\"image\":[{\"id\":\"schilddruese.jpg\"}],\"src\":\"\",\"ratio\":\"\",\"alt\":\"\",\"resizewidth\":null,\"caption\":\"\",\"captionclass\":\"false\",\"width\":\"\",\"widthmobile\":\"\",\"align\":\"\",\"float\":\"\",\"borderradius\":\"\",\"shadow\":\"\",\"linkoption\":\"\",\"link\":\"\",\"newtab\":\"false\"},\"id\":\"c07eb198-2039-482d-aa3b-42d784cfe428\",\"isHidden\":false,\"type\":\"image\"},{\"content\":{\"text\":\"<p>Mit der Schilddr&uuml;sensonographie sehen wir Knoten der Schilddr&uuml;se und typische Gewebever&auml;nderungen bei Entz&uuml;ndungen. Die meisten Schilddr&uuml;senknoten sind gutartig. Bei sonographischem Verdacht auf einen nicht gutartigen Knoten sind weitere Untersuchungen notwendig.<\\\/p>\"},\"id\":\"f3dc8132-186e-4b8d-bea3-734d6fd3cc3b\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"cef0be30-4bc1-4439-8899-4749a0bfd664\",\"width\":\"1\\\/3\"},{\"blocks\":[{\"content\":{\"columnwidth\":\"\",\"tabletwidth\":\"\",\"mobilewidth\":\"\",\"columnheight\":\"\",\"columnminheight\":\"\",\"columnmaxheight\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"columnstyle\":\"none\",\"columncardsize\":\"\",\"columncardhover\":\"false\",\"columncardcolor\":\" uk-card-default\",\"columntile\":\"\",\"columnbackground\":\"\",\"columntextcolor\":\" uk-light\",\"backgroundstyle\":\"color\",\"backgroundimage\":[],\"backgroundimageposition\":\" uk-background-center-center\",\"backgroundimagesize\":\" uk-background-cover\",\"backgroundimagerepeat\":\" no-repeat\",\"backgroundparalax\":\"\",\"mediavideosource\":\"url\",\"mediavideo\":[],\"mediavideourl\":\"\",\"backgroundoverlaycolor\":\"rgba(0,0,0,0.3)\",\"backgroundgradientoverlay\":\"false\",\"backgroundgradienttransition\":\"\",\"backgroundoverlaycolor2\":\"rgba(0,0,0,0.3)\",\"columnpadding\":\"\",\"itemfirst\":\"\",\"itemlast\":\"\",\"borderrounded\":\"false\",\"columnshadow\":\"\",\"columnclass\":\"\",\"columnid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"true\",\"animationtype\":\"uk-animation-slide-bottom-small\",\"animationdelay\":900},\"id\":\"cbc7b9ea-0ea9-4436-8a0a-a6244ad9f9ab\",\"isHidden\":false,\"type\":\"z-column\"},{\"content\":{\"text\":\"<h4><strong>Impfberatung &amp; Impfungen, inkl. Grippeschutz- und Corona-Impfungen<\\\/strong><\\\/h4>\"},\"id\":\"245caa9c-3c41-4904-be22-67d436a2790a\",\"isHidden\":false,\"type\":\"tinymce\"},{\"content\":{\"location\":\"kirby\",\"image\":[{\"id\":\"impfberatung_mesel.jpg\"}],\"src\":\"\",\"ratio\":\"\",\"alt\":\"\",\"resizewidth\":null,\"caption\":\"\",\"captionclass\":\"false\",\"width\":\"\",\"widthmobile\":\"\",\"align\":\"\",\"float\":\"\",\"borderradius\":\"\",\"shadow\":\"\",\"linkoption\":\"\",\"link\":\"\",\"newtab\":\"false\"},\"id\":\"8d32ede8-b070-4653-83bf-1029fb5ebbcf\",\"isHidden\":false,\"type\":\"image\"},{\"content\":{\"text\":\"<p>Wir stellen Ihren Impfstatus fest und bieten Ihnen gerne eine Beratung zu empfohlenen Impfungen. Die Empfehlung einer Grippeschutz- und\\\/oder Coronaimpfung h&auml;ngt immer von der vorliegenden Endemielage ab.<\\\/p>\"},\"id\":\"4e63e8b0-8b6d-454b-a248-cae87257a62e\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"a7a1e0b1-ae45-473c-a549-3d34f11ea848\",\"width\":\"1\\\/3\"}],\"id\":\"9e4f57a2-c8de-479f-8bb3-d367617f42ed\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[],\"id\":\"247adcd5-8e84-44f6-8045-73eed69ffe5f\",\"width\":\"1\\\/1\"}],\"id\":\"4b095b06-2a85-47bb-acac-b58d920d653a\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\" uk-flex-center\",\"columngap\":\"\",\"columnsdivider\":\"true\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"columnwidth\":\"\",\"tabletwidth\":\"\",\"mobilewidth\":\"\",\"columnheight\":\"\",\"columnminheight\":\"\",\"columnmaxheight\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"columnstyle\":\"none\",\"columncardsize\":\"\",\"columncardhover\":\"false\",\"columncardcolor\":\" uk-card-default\",\"columntile\":\"\",\"columnbackground\":\"\",\"columntextcolor\":\" uk-light\",\"backgroundstyle\":\"color\",\"backgroundimage\":[],\"backgroundimageposition\":\" uk-background-center-center\",\"backgroundimagesize\":\" uk-background-cover\",\"backgroundimagerepeat\":\" no-repeat\",\"backgroundparalax\":\"\",\"mediavideosource\":\"url\",\"mediavideo\":[],\"mediavideourl\":\"\",\"backgroundoverlaycolor\":\"rgba(0,0,0,0.3)\",\"backgroundgradientoverlay\":\"false\",\"backgroundgradienttransition\":\"\",\"backgroundoverlaycolor2\":\"rgba(0,0,0,0.3)\",\"columnpadding\":\"\",\"itemfirst\":\"\",\"itemlast\":\"\",\"borderrounded\":\"false\",\"columnshadow\":\"\",\"columnclass\":\"\",\"columnid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"true\",\"animationtype\":\"uk-animation-slide-bottom-small\",\"animationdelay\":300},\"id\":\"95bba193-1853-424e-99d5-cf9353259646\",\"isHidden\":false,\"type\":\"z-column\"},{\"content\":{\"text\":\"<h4><strong>Reisemedizinische Beratung*<\\\/strong><\\\/h4>\"},\"id\":\"125cca33-ee19-4fc5-a7b4-fc6c07c5a7e2\",\"isHidden\":false,\"type\":\"tinymce\"},{\"content\":{\"location\":\"kirby\",\"image\":[{\"id\":\"dr_holzschneider_reisemedizin.jpg\"}],\"src\":\"\",\"ratio\":\"\",\"alt\":\"\",\"resizewidth\":null,\"caption\":\"\",\"captionclass\":\"false\",\"width\":\"\",\"widthmobile\":\"\",\"align\":\"\",\"float\":\"\",\"borderradius\":\"\",\"shadow\":\"\",\"linkoption\":\"\",\"link\":\"\",\"newtab\":\"false\"},\"id\":\"7869b1c4-83ec-4c96-95e0-58047a0d501c\",\"isHidden\":false,\"type\":\"image\"},{\"content\":{\"text\":\"<p>Herr Dr. Holzschneider bietet eine ausf&uuml;hrliche Beratung &uuml;ber Besonderheiten des Reiselandes, incl. erforderlicher Impfungen und Verhaltensma&szlig;nahmen, sowie die Zusammenstellung einer sinnvollen Reiseapotheke.<\\\/p>\\n<p><em>*IGEL-Privatleistungen<\\\/em><\\\/p>\"},\"id\":\"ba3c5c5e-1204-4a52-a82b-55a998ed6f01\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"a13c371c-849f-4bbb-a25c-8fd5daf983bd\",\"width\":\"1\\\/3\"},{\"blocks\":[{\"content\":{\"columnwidth\":\"\",\"tabletwidth\":\"\",\"mobilewidth\":\"\",\"columnheight\":\"\",\"columnminheight\":\"\",\"columnmaxheight\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"columnstyle\":\"none\",\"columncardsize\":\"\",\"columncardhover\":\"false\",\"columncardcolor\":\" uk-card-default\",\"columntile\":\"\",\"columnbackground\":\"\",\"columntextcolor\":\" uk-light\",\"backgroundstyle\":\"color\",\"backgroundimage\":[],\"backgroundimageposition\":\" uk-background-center-center\",\"backgroundimagesize\":\" uk-background-cover\",\"backgroundimagerepeat\":\" no-repeat\",\"backgroundparalax\":\"\",\"mediavideosource\":\"url\",\"mediavideo\":[],\"mediavideourl\":\"\",\"backgroundoverlaycolor\":\"rgba(0,0,0,0.3)\",\"backgroundgradientoverlay\":\"false\",\"backgroundgradienttransition\":\"\",\"backgroundoverlaycolor2\":\"rgba(0,0,0,0.3)\",\"columnpadding\":\"\",\"itemfirst\":\"\",\"itemlast\":\"\",\"borderrounded\":\"false\",\"columnshadow\":\"\",\"columnclass\":\"\",\"columnid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"true\",\"animationtype\":\"uk-animation-slide-bottom-small\",\"animationdelay\":600},\"id\":\"d888fc23-c633-45a4-8bdb-5c14ef1ca57c\",\"isHidden\":false,\"type\":\"z-column\"},{\"content\":{\"text\":\"<h4><strong>Hausbesuche<\\\/strong><\\\/h4>\"},\"id\":\"71ea0c69-b87e-43a2-8922-d98f122b2703\",\"isHidden\":false,\"type\":\"tinymce\"},{\"content\":{\"location\":\"kirby\",\"image\":[{\"id\":\"hausbesuch.jpg\"}],\"src\":\"\",\"ratio\":\"\",\"alt\":\"\",\"resizewidth\":null,\"caption\":\"\",\"captionclass\":\"false\",\"width\":\"\",\"widthmobile\":\"\",\"align\":\"\",\"float\":\"\",\"borderradius\":\"\",\"shadow\":\"\",\"linkoption\":\"\",\"link\":\"\",\"newtab\":\"false\"},\"id\":\"070aaa00-bb04-4000-b063-948955b6a60f\",\"isHidden\":false,\"type\":\"image\"},{\"content\":{\"text\":\"<p>Hausbesuche stellen einen wesentlichen Teil\\u202funserer T&auml;tigkeiten dar und erfordern neben Zeit und Erfahrung\\u202fauch ein gutes Team mit einer funktionierenden Organisation. Wir bieten Hausbesuche f&uuml;r bettl&auml;gerige, gehbehinderte und aus dem Krankenhaus entlassene PatientInnen.<\\\/p>\"},\"id\":\"19112948-8c7c-4637-b3cf-e3fb6fd9d191\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"e75a7b84-1ac0-43e9-a750-91ce32395c49\",\"width\":\"1\\\/3\"},{\"blocks\":[{\"content\":{\"columnwidth\":\"\",\"tabletwidth\":\"\",\"mobilewidth\":\"\",\"columnheight\":\"\",\"columnminheight\":\"\",\"columnmaxheight\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"columnstyle\":\"none\",\"columncardsize\":\"\",\"columncardhover\":\"false\",\"columncardcolor\":\" uk-card-default\",\"columntile\":\"\",\"columnbackground\":\"\",\"columntextcolor\":\" uk-light\",\"backgroundstyle\":\"color\",\"backgroundimage\":[],\"backgroundimageposition\":\" uk-background-center-center\",\"backgroundimagesize\":\" uk-background-cover\",\"backgroundimagerepeat\":\" no-repeat\",\"backgroundparalax\":\"\",\"mediavideosource\":\"url\",\"mediavideo\":[],\"mediavideourl\":\"\",\"backgroundoverlaycolor\":\"rgba(0,0,0,0.3)\",\"backgroundgradientoverlay\":\"false\",\"backgroundgradienttransition\":\"\",\"backgroundoverlaycolor2\":\"rgba(0,0,0,0.3)\",\"columnpadding\":\"\",\"itemfirst\":\"\",\"itemlast\":\"\",\"borderrounded\":\"false\",\"columnshadow\":\"\",\"columnclass\":\"\",\"columnid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"true\",\"animationtype\":\"uk-animation-slide-bottom-small\",\"animationdelay\":900},\"id\":\"cc1992d6-1fd9-4991-adf4-c5a0141da944\",\"isHidden\":false,\"type\":\"z-column\"},{\"content\":{\"text\":\"<h4><strong>Palliativmedizin<\\\/strong><\\\/h4>\"},\"id\":\"b1d981ca-498c-4b3c-9592-b18ceb8713c5\",\"isHidden\":false,\"type\":\"tinymce\"},{\"content\":{\"location\":\"kirby\",\"image\":[{\"id\":\"palliativmedizin.jpg\"}],\"src\":\"\",\"ratio\":\"\",\"alt\":\"\",\"resizewidth\":null,\"caption\":\"\",\"captionclass\":\"false\",\"width\":\"\",\"widthmobile\":\"\",\"align\":\"\",\"float\":\"\",\"borderradius\":\"\",\"shadow\":\"\",\"linkoption\":\"\",\"link\":\"\",\"newtab\":\"false\"},\"id\":\"efc8b8f8-bbf8-40b9-8413-369be6a9a0d3\",\"isHidden\":false,\"type\":\"image\"},{\"content\":{\"text\":\"<p>Frau Dr. Rosahl bietet als erfahrene Palliativmedizinerin schwer kranken PatientInnen eine Begleitung in der H&auml;uslichkeit im Rahmen der \\\"Allgemeinen ambulanten Palliativversorgung\\\" (AAPV) an.<\\\/p>\"},\"id\":\"6d9208b6-bef5-4212-825d-aa15c425d7a1\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"9ce5d2ce-c9ed-47ac-aae7-ce5bd2bf267f\",\"width\":\"1\\\/3\"}],\"id\":\"d80040f5-146d-4bae-8296-4ff4015bdfee\"}]","title":"Leistungen"},"id":"9153457c-87b4-4016-ba66-e5f42b879cb0","isHidden":false,"type":"subgrid"}],"id":"0de64d90-c343-4d28-b730-ef810243e432","width":"1\/1"}],"id":"e9424d60-250b-4c0d-8b4a-173287c17516"},{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-primary","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"level":"h3","text":"Welche Ursachen k\u00f6nnen Bauchschmerzen haben?","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":" uk-text-center","texttransform":"","textwrapping":""},"id":"a85c90bd-e26a-4101-a36b-4c1ea71f2876","isHidden":false,"type":"heading"},{"content":{"videosource":"upload","videofile":["file:\/\/lUhiJtM4y9yf5snt"],"url":"","caption":"","poster":["file:\/\/tECNTIem6hyxrNMY"]},"id":"b13fe951-fd9a-4beb-b70a-1af089198fa5","isHidden":false,"type":"video"}],"id":"b1cf8d1d-efe5-438a-b3f9-33f48526e3c1","width":"1\/2"},{"blocks":[{"content":{"level":"h3","text":"Die Impfsprechstunde in unserer Allgemeinmedizin","headingsize":"","headingstyle":"","headingcolor":"","textalign":" uk-text-center@m","textaligntablet":" uk-text-center@s","textalignmobile":" uk-text-center","texttransform":"","textwrapping":""},"id":"df8d9d54-374f-4119-9fb5-d61b076ec41b","isHidden":false,"type":"heading"},{"content":{"videosource":"upload","videofile":["file:\/\/BhqVsrywYb8BTCZs"],"url":"","caption":"","poster":["file:\/\/tpHprKHMc8HcKJON"]},"id":"a0444067-7b46-4d27-8808-bdbd8512e94c","isHidden":false,"type":"video"}],"id":"1a064207-1856-40dc-aff6-a52493857fb8","width":"1\/2"}],"id":"6574818d-41d0-4655-98b3-1c2f6bc193b7"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: uk-background-center-center
+
+----
+
+Megamenubackgroundimagesize: uk-background-cover
+
+----
+
+Megamenubackgroundimagerepeat: no-repeat
+
+----
+
+Megamenubackgroundoverlaycolor: rgba(0,0,0,0.3)
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Megamenubackgroundoverlaycolor2: rgba(0,0,0,0.3)
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Headerbackgroundtoggle: true
+
+----
+
+Header: - file://qClmVsp414bCct0d
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: #a1505a
+
+----
+
+Backgroundparalax: paralaxY
+
+----
+
+Shapedividertoggle: true
+
+----
+
+Shapedivider: mountains
+
+----
+
+Shapedividerposition: 
+
+----
+
+Shapedividercolor: #ffffff
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 150px
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: sYDNqDMjpdnhYgjE

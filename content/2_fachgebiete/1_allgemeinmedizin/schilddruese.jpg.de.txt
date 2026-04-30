@@ -1,0 +1,9 @@
+Uuid: GA87mzsFlyTuMMy3
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

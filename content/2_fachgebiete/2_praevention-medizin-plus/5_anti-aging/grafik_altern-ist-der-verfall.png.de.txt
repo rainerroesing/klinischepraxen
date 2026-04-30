@@ -1,0 +1,9 @@
+Uuid: TdH674A2DoHXAzDI
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

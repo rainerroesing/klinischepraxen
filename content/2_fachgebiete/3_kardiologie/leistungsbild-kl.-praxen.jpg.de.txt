@@ -1,0 +1,9 @@
+Uuid: PSE8iNHRuFULTkQY
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

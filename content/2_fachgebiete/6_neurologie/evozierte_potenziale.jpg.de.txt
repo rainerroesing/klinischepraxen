@@ -1,0 +1,9 @@
+Uuid: nmK3SlozrrSsSIz1
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

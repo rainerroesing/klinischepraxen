@@ -1,0 +1,9 @@
+Uuid: RXS3yFOX7EAC8nVb
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

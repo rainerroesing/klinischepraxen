@@ -1,0 +1,33 @@
+Caption: Adam Mesel
+
+----
+
+Harry: Allgemeinmediziner
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sitemap: true
+
+----
+
+Uuid: R94y5Qa94Tr5H25i
+
+----
+
+Template: image

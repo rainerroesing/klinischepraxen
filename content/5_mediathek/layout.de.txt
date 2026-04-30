@@ -1,0 +1,161 @@
+Title: Mediathek
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-large","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"subgrid":"[{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"text\":\"<h5><strong>Liebe Patientinnen und Patienten,<\\\/strong><\\\/h5>\\n<h5><strong>wir haben extra f&uuml;r Sie Videos erstellt, um Ihnen einen Einblick in unsere Arbeit und das Team der Klinischen Praxen zu geben. Wir stellen Ihnen zus&auml;tzlich unsere Fachgebiete und Besonderheiten bei einigen Untersuchungen vor.<\\\/strong><\\\/h5>\\n<h5><strong>Wir freuen uns auf Ihren Besuch bei uns!<\\\/strong><\\\/h5>\"},\"id\":\"0ec388e3-e6e8-4d72-95af-64a45fdacf72\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"7463a127-fab7-4301-a31d-ed87e503d13a\",\"width\":\"1\\\/1\"}],\"id\":\"d2570df6-6ec7-402a-838b-f7bb283ee3cb\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"videosource\":\"upload\",\"videofile\":[\"file:\\\/\\\/VMaVwWTWi7yOJ9qf\"],\"url\":\"\",\"caption\":\"\\u00dcber die Klinischen Praxen\",\"poster\":[\"file:\\\/\\\/mshRHgYZCkLapYWN\"]},\"id\":\"e7a01d4b-ce4a-4a4d-a419-cda0a06e7da7\",\"isHidden\":false,\"type\":\"video\"},{\"content\":{\"videosource\":\"upload\",\"videofile\":[\"file:\\\/\\\/HJq1wMvdbU4ST4tH\"],\"url\":\"\",\"caption\":\"Unsere Allgemeinmedizin\",\"poster\":[\"file:\\\/\\\/PPoZYWOD4nWs0zBC\"]},\"id\":\"52a0d056-b550-4fe8-b9bb-04d4e79ac517\",\"isHidden\":false,\"type\":\"video\"}],\"id\":\"9ae7e1c9-6b1b-4bac-829b-2dd377edca91\",\"width\":\"1\\\/2\"},{\"blocks\":[{\"content\":{\"videosource\":\"upload\",\"videofile\":[\"file:\\\/\\\/pWQWrRXssHA71nE5\"],\"url\":\"\",\"caption\":\"Neu im F\\u00fchrungsteam: Dr. Nicolai Kr\\u00e4u\\u00dflich\",\"poster\":[\"file:\\\/\\\/dFRn7CouefySWQj7\"]},\"id\":\"6d63b2c8-b7ba-46a5-aa43-4e4af9093bde\",\"isHidden\":false,\"type\":\"video\"},{\"content\":{\"videosource\":\"upload\",\"videofile\":[\"file:\\\/\\\/lUhiJtM4y9yf5snt\"],\"url\":\"\",\"caption\":\"Welche Ursache k\\u00f6nnen Bauchschmerzen haben?\",\"poster\":[\"file:\\\/\\\/lOAdIukH4XehxgP4\"]},\"id\":\"026698a5-4825-44c7-a4db-bbbfc28dd092\",\"isHidden\":false,\"type\":\"video\"}],\"id\":\"ca84e98c-145f-4e6d-806c-22e062f90ec0\",\"width\":\"1\\\/2\"}],\"id\":\"53ad7569-849b-417e-ae6e-2d03de1a20aa\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"videosource\":\"upload\",\"videofile\":[\"file:\\\/\\\/BhqVsrywYb8BTCZs\"],\"url\":\"\",\"caption\":\"Die Impfsprechstunde in unserer Allgemeinmedizin\",\"poster\":[\"file:\\\/\\\/hvjXKPxa3Bm4HsJ2\"]},\"id\":\"bf021467-4bd2-4ec4-b7ad-e4c26cab2d8b\",\"isHidden\":false,\"type\":\"video\"}],\"id\":\"9b79a8b2-47f2-46ae-983c-e901ebbf39f3\",\"width\":\"1\\\/2\"},{\"blocks\":[{\"content\":{\"videosource\":\"upload\",\"videofile\":[\"file:\\\/\\\/8EckOm03E4dGiRYP\"],\"url\":\"\",\"caption\":\"Kardiologie\",\"poster\":[\"file:\\\/\\\/y12t8O8V0UYy4JEo\"]},\"id\":\"a8e799ea-7d95-4739-a67d-bd3258b468d4\",\"isHidden\":false,\"type\":\"video\"}],\"id\":\"542a1205-5b9e-4b43-85f6-fbce5ed50f1e\",\"width\":\"1\\\/2\"}],\"id\":\"e86fabd2-394a-4f80-a7a5-c66999e46902\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"videosource\":\"upload\",\"videofile\":[\"file:\\\/\\\/qWRz6lOSiejcGrJA\"],\"url\":\"\",\"caption\":\"Wie l\\u00e4uft eine Magenspiegelung ab?\",\"poster\":[\"file:\\\/\\\/PUX9wBCyR6r1iQ10\"]},\"id\":\"de9c586f-0efb-4c96-97fb-e2d2299a6747\",\"isHidden\":false,\"type\":\"video\"}],\"id\":\"2d1eb726-04cb-4b32-b694-fa5190c8a5b6\",\"width\":\"1\\\/2\"},{\"blocks\":[{\"content\":{\"videosource\":\"upload\",\"videofile\":[\"file:\\\/\\\/Dp61L2dux6hojn5o\"],\"url\":\"\",\"caption\":\"Darmkrebsvorsorge mit Hilfe K\\u00fcnstlicher Intelligenz\\u00a0\",\"poster\":[\"file:\\\/\\\/nazhBYbbp9JW0kt8\"]},\"id\":\"f11cd7e3-1f05-4eef-8313-b1ad67c25d5a\",\"isHidden\":false,\"type\":\"video\"}],\"id\":\"c82d53f0-3903-40d7-9d9a-8139334d1faa\",\"width\":\"1\\\/2\"}],\"id\":\"92865ff3-4acc-4e50-bd04-69d6bbf8c7df\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"videosource\":\"upload\",\"videofile\":[\"file:\\\/\\\/jtqgLUUsEDtzWv97\"],\"url\":\"\",\"caption\":\"Unser Pr\\u00e4ventionskonzept\",\"poster\":[\"file:\\\/\\\/zg8raiEDowr1caNI\"]},\"id\":\"2b465f6d-3576-4367-94ac-2176a721bdaf\",\"isHidden\":false,\"type\":\"video\"}],\"id\":\"a67f9aaa-46cb-41ff-b255-8966a8ee5b68\",\"width\":\"1\\\/2\"},{\"blocks\":[{\"content\":{\"videosource\":\"upload\",\"videofile\":[\"file:\\\/\\\/lJEJiCvnzoSFycjI\"],\"url\":\"\",\"caption\":\"Medizinischer Check-up\",\"poster\":[\"file:\\\/\\\/FIYlFQxwS4pVGkNJ\"]},\"id\":\"a83f756c-dea5-4f9a-bcaf-e3ff6e145475\",\"isHidden\":false,\"type\":\"video\"}],\"id\":\"0e5b9fd2-c82d-4fb4-8162-f828594d22b5\",\"width\":\"1\\\/2\"}],\"id\":\"177fae89-adc4-45b3-80b1-13b8e12d2568\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"videosource\":\"upload\",\"videofile\":[\"file:\\\/\\\/NVDcFActPTPlsRXG\"],\"url\":\"\",\"caption\":\"Lungenheilkunde und Schlafmedizin\",\"poster\":[\"file:\\\/\\\/4vPBWQxG1PCw4y5G\"]},\"id\":\"174f1722-94e4-47bf-acd4-a1050e091af7\",\"isHidden\":false,\"type\":\"video\"}],\"id\":\"24680145-f8ff-4c71-b402-c96ed4608a14\",\"width\":\"1\\\/2\"},{\"blocks\":[{\"content\":{\"videosource\":\"upload\",\"videofile\":[\"file:\\\/\\\/qW6TCuRgzyWHLM57\"],\"url\":\"\",\"caption\":\"Die Geschichte der Klinischen Praxen\",\"poster\":[\"file:\\\/\\\/Ry1nvBC9ziAjweMB\"]},\"id\":\"9a5a0fec-ec8f-4d26-a6cf-d6c511602dc2\",\"isHidden\":false,\"type\":\"video\"}],\"id\":\"5649b53e-7b17-414f-b88b-0fd3e2e69ca1\",\"width\":\"1\\\/2\"}],\"id\":\"ff22be9e-23b3-46fd-bd9b-e9d087aafe6c\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"videosource\":\"upload\",\"videofile\":[\"file:\\\/\\\/KJZwhSbllbe3Rp1S\"],\"url\":\"\",\"caption\":\"Komm zu uns ins Team!\",\"poster\":[\"file:\\\/\\\/MjuPlvrdACv4GKIx\"]},\"id\":\"99b5b918-f25a-4a3c-84ee-af7dffa147bc\",\"isHidden\":false,\"type\":\"video\"}],\"id\":\"5ec1c898-351f-4b0d-bf76-293300f55926\",\"width\":\"1\\\/2\"},{\"blocks\":[],\"id\":\"4e27a2ff-9af5-42b8-894c-7e8638db774a\",\"width\":\"1\\\/2\"}],\"id\":\"acc82cc6-4f07-4a1d-8c8c-abc4b1ef55e0\"}]","title":"Videos"},"id":"e985eeb6-5e97-4c73-92b7-4176b66bad52","isHidden":false,"type":"subgrid"}],"id":"3cac595d-36aa-4f5e-945f-08406036ba6b","width":"1\/1"}],"id":"7e674e18-228e-491d-b5eb-9c5ed43d47ee"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: uk-background-center-center
+
+----
+
+Megamenubackgroundimagesize: uk-background-cover
+
+----
+
+Megamenubackgroundimagerepeat: no-repeat
+
+----
+
+Megamenubackgroundoverlaycolor: rgba(0,0,0,0.3)
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Megamenubackgroundoverlaycolor2: rgba(0,0,0,0.3)
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Headerbackgroundtoggle: true
+
+----
+
+Header: - file://kOyB5RhVO5zxDbtm
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: #a1505af2
+
+----
+
+Backgroundparalax: paralaxY
+
+----
+
+Shapedividertoggle: true
+
+----
+
+Shapedivider: mountains
+
+----
+
+Shapedividerposition: 
+
+----
+
+Shapedividercolor: #ffffff
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 150px
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: 7WKIOMvdJQRuVEs1

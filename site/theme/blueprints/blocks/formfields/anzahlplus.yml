@@ -1,0 +1,8 @@
+name: Anzahl-Plus
+icon: list-bullet
+
+fields:
+  name:
+    label: Anzahl Rezept Feld
+    type: number
+    width: 1/1

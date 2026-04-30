@@ -1,0 +1,9 @@
+Uuid: IN1L4RZ7OU2VSORI
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

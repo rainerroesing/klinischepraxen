@@ -1,0 +1,9 @@
+Uuid: drZob420SFtBsn7c
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

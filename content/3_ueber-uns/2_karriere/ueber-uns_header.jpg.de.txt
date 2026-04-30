@@ -1,0 +1,9 @@
+Uuid: SamLWh3zXnKBfhQu
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

@@ -1,0 +1,9 @@
+Uuid: PtZJTLWJZsVQuy64
+
+----
+
+Template: video
+
+----
+
+Sitemap: true

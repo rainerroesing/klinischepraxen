@@ -1,0 +1,26 @@
+name: Fünfer Card-Reihe
+icon: bars
+
+fields:
+  fivecards:
+    label: Fünfer Card-Reihe
+    type: structure
+    fields:
+      icon:
+        label: Icon
+        type: select
+        default: erstgespraech
+        options:
+          erstgespraech: Erstgespräch
+          untersuchung: Untersuchung
+          verlaufskontrolle: Verlaufskontrolle
+          erfolgskontrolle: Erfolgskontrolle
+          auswertung: Auswertung
+      head:
+        label: Überschrift
+        type: text
+      infotext:
+        label: Infotext
+        type: text
+    max: 5
+    sortable: true

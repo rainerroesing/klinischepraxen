@@ -1,0 +1,9 @@
+Uuid: R21jQGZdw6Cc0dHk
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

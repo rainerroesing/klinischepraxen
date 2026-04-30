@@ -1,0 +1,9 @@
+Uuid: DzrJozuUmGn116kh
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

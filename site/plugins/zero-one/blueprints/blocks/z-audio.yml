@@ -1,0 +1,81 @@
+name: Audio
+icon: file-audio
+preview: audio
+tabs:
+  content:
+    label: 
+      en: Content
+      de: Inhalt
+    fields:
+      source:
+        type: files
+        query: site.index(true).audio
+        info: "{{ file.niceSize }}"
+        uploads: audio
+        info: "{{ file.niceSize }}"
+        multiple: false
+        width: 1/2
+      poster:
+        type: files
+        query: site.index(true).images
+        info: "{{ file.dimensions }} {{ file.niceSize }}"
+        uploads: image
+        multiple: false
+        width: 1/2
+      title:
+        type: text
+        placeholder: Title
+        width: 1/2
+      subtitle:
+        type: text
+        placeholder: Subtitle
+        width: 1/2
+      description:
+        type: writer
+        icon: text
+        inline: true
+        placeholder: Description
+        marks:
+          - bold
+          - italic
+      controls:
+        type: toggle
+        text: Show controls?
+        width: 1/2
+        default: true
+      autoplay:
+        type: toggle
+        text: autoplay
+        width: 1/2
+        default: false
+      layout:
+        type: toggle
+        text:
+          - Horizontal
+          - Vertical
+        width: 1/2
+        default: false
+      background:
+        label:
+          en: Background
+          de: Hintergrund 
+        type: select
+        placeholder: None
+        options:
+          " uk-card-default": 
+            en: Default
+            de: Standard
+          " uk-card-primary": 
+            en: Primary
+            de: Primär
+          " uk-card-secondary": 
+            en: Secondary
+            de: Sekundär
+        width: 1/2
+      fallbackText:
+        label: Fallback text
+        type: text
+        placeholder: Your browser does not support the audio element.
+        default: Your browser does not support the <code>audio</code> element.
+
+      

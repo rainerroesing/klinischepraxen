@@ -1,0 +1,9 @@
+Uuid: nz2A2UDtFat1CnY5
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

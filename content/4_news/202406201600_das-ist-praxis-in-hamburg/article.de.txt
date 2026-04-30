@@ -1,0 +1,49 @@
+Title: Dr. Lange im Praxisportrait "Das ist Praxis in Hamburg"!
+
+----
+
+Date: 2024-06-20 16:00:00
+
+----
+
+Author: 
+
+----
+
+Desc: Video-Einblicke: Dr. Lange zeigt wie Praxis in Hamburg funktionieren kann.
+
+----
+
+Text: [{"content":{"text":"<p>Die Kassen\u00e4rztliche Vereinigung Hamburg zeigt ab dem 20. Juni 2024 in einer gro\u00df angelegten Kampagne wie \u00c4rzt:innen in Hamburg f\u00fcr ihre Praxen leben. Dr. Maximilian Lange ist ein Teil der Kampagne und gibt in dem Video einen Einblick in seinen Praxis- und Familienalltag.<\/p><p><\/p>","textalign":"","textaligntablet":"","textalignmobile":"","textsize":"","texttransform":"","textwrapping":"","textcolor":""},"id":"0e7256ed-7ae6-4e8a-bb3a-3d490af07f02","isHidden":false,"type":"text"},{"content":{"text":"Dr. Maximilian Lange: \u201eIch bin gerne ein Teil der Kampagne, weil ich es wichtig finde als Arzt mit meiner Praxis Verantwortung zu \u00fcbernehmen \u2013 gegen\u00fcber der Gesellschaft, den Patientinnen und Patienten,\u00a0als Arbeitgeber\u00a0f\u00fcr mein hervorragendes Team\u00a0und f\u00fcr meine Familie!\u201c","citation":""},"id":"18e4c9f7-8489-4c20-84e1-049dd4161101","isHidden":false,"type":"quote"},{"content":{"videosource":"upload","videofile":["file:\/\/PtZJTLWJZsVQuy64"],"url":"https:\/\/www.youtube.com\/watch?v=na7THlH5cQs","caption":"Video \"Das ist Praxis in Hamburg - Praxisportrait Dr. Maximilian Lange\" - Kampagne der Kassen\u00e4rztlichen Vereinigung Hamburg. Quelle: youtube.com","poster":["file:\/\/uE7NNNw5GU64C6vC"]},"id":"45dbd29a-c153-47d3-ab21-d3849d34a242","isHidden":false,"type":"video"},{"content":{"videosource":"upload","videofile":["file:\/\/DvzXSaEambGgQ8gN"],"url":"https:\/\/www.youtube.com\/watch?v=a_XEW2tl_vg","caption":"Video \"Das ist Praxis in Hamburg\" - Kampagne der Kassen\u00e4rztlichen Vereinigung Hamburg. Quelle: youtube.com","poster":["file:\/\/IXkQEGvUmeWUHFdN"]},"id":"711648d7-f1e1-4d95-9609-df50fc9bb0f9","isHidden":false,"type":"video"}]
+
+----
+
+Cover: - file://EbQPKbegkOWpC4C9
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Related: 
+
+----
+
+Category: Allgemeinmedizin
+
+----
+
+Tags: praxis, presse, drlange, kvh, video
+
+----
+
+Featured: no
+
+----
+
+Uuid: PTHi4tybsSRxvSAg

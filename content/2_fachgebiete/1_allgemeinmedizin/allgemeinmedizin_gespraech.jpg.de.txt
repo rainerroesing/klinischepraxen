@@ -1,0 +1,9 @@
+Uuid: JpkKlEHr5pwdKGj2
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

@@ -1,0 +1,9 @@
+Uuid: MQ29g7Vgf0OBBVgt
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

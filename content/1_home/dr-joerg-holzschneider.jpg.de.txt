@@ -1,0 +1,33 @@
+Caption: Dr. Jörg Holzschneider
+
+----
+
+Harry: Internist & Pneumologe
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sitemap: true
+
+----
+
+Uuid: C86xAQxgWcyWBHp1
+
+----
+
+Template: image

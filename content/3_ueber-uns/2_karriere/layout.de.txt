@@ -1,0 +1,161 @@
+Title: Karriere
+
+----
+
+Layout: [{"attrs":{"gridwidth":"uk-container uk-container-xsmall","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":" uk-padding-remove-top","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"subgrid":"[{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[],\"id\":\"5edaa0f3-9e83-47af-98c3-1ee2a71cbbd3\",\"width\":\"1\\\/1\"}],\"id\":\"ac03f611-02b2-4b38-9527-14407667a408\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[],\"id\":\"ea8ecf03-cc4a-43cf-b2e6-6f79cfa67cee\",\"width\":\"1\\\/1\"}],\"id\":\"3d9d8a86-16bf-4e06-801f-9df847f3c381\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"level\":\"h1\",\"text\":\"Aktuelle Stellenausschreibungen\",\"headingsize\":\" uk-h1\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"a4ab2dca-703b-4874-ae67-440c357d5199\",\"isHidden\":false,\"type\":\"heading\"}],\"id\":\"6c3f8f0e-c06a-447d-b6c1-b06f03cd638a\",\"width\":\"1\\\/1\"}],\"id\":\"eadbbf6e-70ab-499c-ab3b-59c69cee48ef\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[],\"id\":\"3a13c93b-4182-42a3-b89c-5dcf45401cfb\",\"width\":\"1\\\/1\"}],\"id\":\"f2d37c89-0560-4b54-b616-d349da706963\"}]","title":"Aktuelle Stellenausschreibungen"},"id":"81a6aa99-0721-4b0c-89ec-ec1c22c319a0","isHidden":false,"type":"subgrid"},{"content":{"subgrid":"[{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\" uk-grid-large\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"level\":\"h2\",\"text\":\"Medizinische Fachangestellte (w\\\/m\\\/d) in der Neurologie in Voll- oder Teilzeit\",\"headingsize\":\" uk-h2\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"958cd712-117a-45f0-a30b-034f2c4807b7\",\"isHidden\":false,\"type\":\"heading\"}],\"id\":\"20a41ed9-1580-44b2-8e33-4d6934335008\",\"width\":\"1\\\/1\"}],\"id\":\"ab67a2b6-a12d-4415-bd75-c88759eaf6a5\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"text\":\"<p><strong>Wir m&ouml;chten Sie einsetzen in:<\\\/strong><\\\/p>\\n<ul>\\n<li>der neurologischen Abteilung in unserer modernen Praxis im Mittelweg 162<\\\/li>\\n<\\\/ul>\\n<p><strong>Wir freuen uns, wenn Sie:<\\\/strong><\\\/p>\\n<ul>\\n<li>Interesse an einer Weiterbildung in unserer Neurologie haben oder bereits Kenntnisse in diesem Bereich mitbringen<\\\/li>\\n<li>Erfahrung mit neurophysiologischen Messungen, wie Elektroneurographie (ENG)\\\/Nervenleitgeschwindigkeit (NLG) und Elektroenzephalogramm (EEG) erlangen konnten<\\\/li>\\n<li>ein Teamplayer sind und selbstst&auml;ndig und verantwortungsvoll arbeiten<\\\/li>\\n<li>kommunikationsstark sind, freundlich und Einf&uuml;hlungsverm&ouml;gen besitzen<\\\/li>\\n<\\\/ul>\"},\"id\":\"f67de1ab-68c3-4b9a-902d-cd8318b6aa56\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"7e2b829a-d533-484f-af43-0c61de90a054\",\"width\":\"1\\\/2\"},{\"blocks\":[{\"content\":{\"text\":\"<p><strong>Wir bieten Ihnen<\\\/strong><\\\/p>\\n<ul>\\n<li>ein attraktives Gehalt<\\\/li>\\n<li>gesunde und familienfreundliche Arbeitsbedingungen<\\\/li>\\n<li>ein freundliches und helfendes Team<\\\/li>\\n<li>keine Wochenenddienste<\\\/li>\\n<li>eine HVV-Monatskarte oder einen kostenlosen Firmenparkplatz<\\\/li>\\n<\\\/ul>\\n<p><strong>Wir informieren Sie auf kurzen Wegen<\\\/strong><\\\/p>\\n<ul>\\n<li>F&uuml;r erste Fragen erreichen Sie uns unter der Telefonnummer <strong>040- 46774678<\\\/strong>.<\\\/li>\\n<li>Schicken Sie uns Ihre Bewerbung inkl. Ihres Lebenslaufs gerne an <strong>Frau Dr. Anna-Lena Lange<\\\/strong> (<a href=\\\"mailto:a-l.lange@klinische-praxen.de\\\">a-l.lange@klinische-praxen.de<\\\/a>) und wir melden uns kurzfristig zur Vereinbarung eines pers&ouml;nlichen Termins.<\\\/li>\\n<\\\/ul>\"},\"id\":\"2f653bca-66d2-419d-bf3a-3b7785bea42b\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"1b51a7f2-d289-4f94-989d-75366c1e473b\",\"width\":\"1\\\/2\"}],\"id\":\"75784968-5b8c-4877-8ec5-28c95400b487\"}]","title":"Medizinische Fachangestellte (w\/m\/d) in der Neurologie"},"id":"236bf31f-b3f3-48bf-88f6-07bade049a84","isHidden":false,"type":"subgrid"},{"content":{"linestyle":""},"id":"52dff174-ddf5-4040-9d74-b8dc016a7b97","isHidden":false,"type":"line"}],"id":"af7a9046-57b8-447d-b3a4-2e034361e0a6","width":"1\/1"}],"id":"7de6b9f6-4b4d-41b2-8f44-8b2761b66645"},{"attrs":{"gridwidth":"uk-container uk-container-xsmall","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"subgrid":"[{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\" uk-grid-large\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"level\":\"h2\",\"text\":\"Arzthelfer, Medizinische Fachangestellte oder Krankenschwester (w\\\/m\\\/d) in Voll- oder Teilzeit\",\"headingsize\":\" uk-h2\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"958cd712-117a-45f0-a30b-034f2c4807b7\",\"isHidden\":false,\"type\":\"heading\"}],\"id\":\"20a41ed9-1580-44b2-8e33-4d6934335008\",\"width\":\"1\\\/1\"}],\"id\":\"ab67a2b6-a12d-4415-bd75-c88759eaf6a5\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"text\":\"<p><strong>Wir m&ouml;chten Sie einsetzen f&uuml;r<\\\/strong><\\\/p>\\n<ul>\\n<li>Labor und Funktionen wie EKG, Lungenfunktionstests etc.<\\\/li>\\n<li>qualifizierte Aufgaben je nach Vorkenntnis oder Weiterbildung<\\\/li>\\n<\\\/ul>\\n<p><strong>Wir freuen uns, wenn Sie<\\\/strong><\\\/p>\\n<ul>\\n<li>Neugier und evtl. Qualifikationen im gastroenterologischen Bereich mitbringen<\\\/li>\\n<li>ein Teamplayer sind und selbstst&auml;ndig und verantwortungsvoll arbeiten<\\\/li>\\n<li>kommunikationsstark sind, freundlich und Einf&uuml;hlungsverm&ouml;gen besitzen<\\\/li>\\n<\\\/ul>\\n<p><strong>Wir bieten Ihnen<\\\/strong><\\\/p>\\n<ul>\\n<li>ein attraktives Gehalt<\\\/li>\\n<li>gesunde Arbeitsbedingungen<\\\/li>\\n<li>einen medizinischen Check-Up zur eigenen Gesundheitspr&auml;vention im Wert von 800 &euro;<\\\/li>\\n<li>ein freundliches und helfendes Team<\\\/li>\\n<li>einen kostenlosen Firmenparkplatz<\\\/li>\\n<\\\/ul>\"},\"id\":\"f67de1ab-68c3-4b9a-902d-cd8318b6aa56\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"7e2b829a-d533-484f-af43-0c61de90a054\",\"width\":\"1\\\/2\"},{\"blocks\":[{\"content\":{\"text\":\"<p><strong>Wir w&uuml;nschen uns von Ihnen<\\\/strong><\\\/p>\\n<ul>\\n<li>eine abgeschlossene Berufsausbildung<\\\/li>\\n<li>f&uuml;r den medizinischen Bereich eine entsprechende Qualifikation<\\\/li>\\n<\\\/ul>\\n<p><strong>Wir informieren Sie auf kurzen Wegen<\\\/strong><\\\/p>\\n<ul>\\n<li>F&uuml;r erste Fragen erreichen Sie uns unter der Telefonnummer <strong>040- 46774678<\\\/strong>.<\\\/li>\\n<li>Schicken Sie uns Ihre Bewerbung inkl. Ihres Lebenslaufs gerne an <strong>m.lange@klinische-praxen.de<\\\/strong> und wir melden uns kurzfristig zur Vereinbarung eines pers&ouml;nlichen Termins.<\\\/li>\\n<\\\/ul>\"},\"id\":\"2f653bca-66d2-419d-bf3a-3b7785bea42b\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"1b51a7f2-d289-4f94-989d-75366c1e473b\",\"width\":\"1\\\/2\"}],\"id\":\"75784968-5b8c-4877-8ec5-28c95400b487\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[],\"id\":\"3a13c93b-4182-42a3-b89c-5dcf45401cfb\",\"width\":\"1\\\/1\"}],\"id\":\"f2d37c89-0560-4b54-b616-d349da706963\"}]","title":"Arzthelfer, Medizinische Fachangestellte oder Krankenschwester (w\/m\/d)"},"id":"53f9f205-4e31-4dfb-ac9d-93cfe2f9662d","isHidden":false,"type":"subgrid"},{"content":{"linestyle":""},"id":"fcd7f15d-9ae4-4fd3-9ef4-ff1bc12f59a2","isHidden":false,"type":"line"}],"id":"25f5dd1a-979f-403d-91d7-e4baada40aaa","width":"1\/1"}],"id":"deffe0db-6bee-41d4-97c4-ba53376c126d"},{"attrs":{"gridwidth":"uk-container uk-container-xsmall","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-small","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"subgrid":"[{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\" uk-grid-small\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"level\":\"h2\",\"text\":\"Empfangsmitarbeiterin (w\\\/m\\\/d) in Voll- oder Teilzeit\",\"headingsize\":\" uk-h2\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"958cd712-117a-45f0-a30b-034f2c4807b7\",\"isHidden\":false,\"type\":\"heading\"}],\"id\":\"20a41ed9-1580-44b2-8e33-4d6934335008\",\"width\":\"1\\\/1\"}],\"id\":\"ab67a2b6-a12d-4415-bd75-c88759eaf6a5\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"text\":\"<p><strong>Wir m&ouml;chten Sie einsetzen f&uuml;r<\\\/strong><\\\/p>\\n<ul>\\n<li>PatientInnen-Annahme am Empfang<\\\/li>\\n<li>Ausstellungen von Rezepten, Arbeitsunf&auml;higkeitsbescheinigungen<\\\/li>\\n<li>Betreuung der Telefon-Hotline<\\\/li>\\n<li>qualifizierte Aufgaben je nach Vorkenntnis oder Weiterbildung (z.B. Einsatz im Labor)<\\\/li>\\n<\\\/ul>\\n<p><strong>Wir freuen uns, wenn Sie<\\\/strong><\\\/p>\\n<ul>\\n<li>Neugier und evtl. Qualifikationen im medizinischen Bereich mitbringen<\\\/li>\\n<li>ein Teamplayer sind und selbstst&auml;ndig und verantwortungsvoll arbeiten<\\\/li>\\n<li>kommunikationsstark sind, freundlich und Einf&uuml;hlungsverm&ouml;gen besitzen<\\\/li>\\n<\\\/ul>\\n<p><strong>Wir bieten Ihnen<\\\/strong><\\\/p>\\n<ul>\\n<li>ein attraktives Gehalt<\\\/li>\\n<li>gesunde Arbeitsbedingungen<\\\/li>\\n<li>einen medizinischen Check-Up zur eigenen Gesundheitspr&auml;vention im Wert von 800 &euro;<\\\/li>\\n<li>ein freundliches und helfendes Team<\\\/li>\\n<li>einen kostenlosen Firmenparkplatz<\\\/li>\\n<\\\/ul>\"},\"id\":\"f67de1ab-68c3-4b9a-902d-cd8318b6aa56\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"7e2b829a-d533-484f-af43-0c61de90a054\",\"width\":\"1\\\/2\"},{\"blocks\":[{\"content\":{\"text\":\"<p><strong>Wir w&uuml;nschen uns von Ihnen<\\\/strong><\\\/p>\\n<ul>\\n<li>eine abgeschlossene Berufsausbildung<\\\/li>\\n<li>Erfahrung im medizinischen Bereich \\\/ einer Praxis<\\\/li>\\n<li>gute Deutschkenntnisse<\\\/li>\\n<\\\/ul>\\n<p><strong>Wir informieren Sie auf kurzen Wegen<\\\/strong><\\\/p>\\n<ul>\\n<li>F&uuml;r erste Fragen erreichen Sie uns unter der Telefonnummer <strong>040- 46774678<\\\/strong>.<\\\/li>\\n<li>Schicken Sie uns Ihre Bewerbung inkl. Ihres Lebenslaufs gerne an <strong>m.lange@klinische-praxen.de<\\\/strong> und wir melden uns kurzfristig zur Vereinbarung eines pers&ouml;nlichen Termins.<\\\/li>\\n<\\\/ul>\"},\"id\":\"2f653bca-66d2-419d-bf3a-3b7785bea42b\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"1b51a7f2-d289-4f94-989d-75366c1e473b\",\"width\":\"1\\\/2\"}],\"id\":\"75784968-5b8c-4877-8ec5-28c95400b487\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[],\"id\":\"3a13c93b-4182-42a3-b89c-5dcf45401cfb\",\"width\":\"1\\\/1\"}],\"id\":\"f2d37c89-0560-4b54-b616-d349da706963\"}]","title":"Empfangsmitarbeiterin (w\/m\/d) in Voll- oder Teilzeit"},"id":"5959acf5-f327-4b37-b264-ca6c4c212e32","isHidden":false,"type":"subgrid"}],"id":"fb3a14cb-377f-4a49-a7bc-8e40855348d1","width":"1\/1"}],"id":"e06c2a2f-8e88-4951-95cd-2b49cb5627fa"},{"attrs":{"gridwidth":"uk-container uk-container-medium","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":"custom","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"#e0968d","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"true","shapedivider":"tilt-alt","shapedividerposition":"top","shapedividercolor":"#faf8f2","customshapedivider":"","shapedividerheight":"50px","preservecolor":"false","sectionclass":"","sectionid":"karriere","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"subgrid":"[{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"text\":\"<h2>Werden Sie Teil unseres Teams!<\\\/h2>\"},\"id\":\"f4e8f0b8-9f36-42f6-a6a8-9629459f88f6\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"6be265c7-ddce-4476-9b74-bb555b4e058a\",\"width\":\"1\\\/1\"}],\"id\":\"031d2ade-1949-42d7-8574-93822f3aae6d\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"videosource\":\"upload\",\"videofile\":[\"file:\\\/\\\/KJZwhSbllbe3Rp1S\"],\"url\":\"\",\"caption\":\"\",\"poster\":[\"file:\\\/\\\/bXvNi2Jfh9H0XxtM\"]},\"id\":\"e513bf3b-9db1-4c8b-bfa4-c2e23b7f36e3\",\"isHidden\":false,\"type\":\"video\"}],\"id\":\"5b343278-c2e7-4c35-91bd-97a895dae067\",\"width\":\"1\\\/1\"}],\"id\":\"4303c9c1-8b7b-4396-8368-4ffab439da1b\"}]","title":"Karriere"},"id":"7657dd70-89d4-4974-85bd-c04c58250425","isHidden":false,"type":"subgrid"}],"id":"06f3e50d-addc-43f5-adfa-f5ea9dc302c0","width":"1\/1"}],"id":"221e5cd1-8fa1-4c99-b74d-17d7c3551421"},{"attrs":{"gridwidth":"uk-container uk-container-xsmall","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":"","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"subgrid":"[{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"level\":\"h2\",\"text\":\"Philosophie der Klinischen Praxen Dr. Lange &amp; Kollegium\",\"headingsize\":\" uk-h1\",\"headingstyle\":\"\",\"headingcolor\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\"},\"id\":\"a4ab2dca-703b-4874-ae67-440c357d5199\",\"isHidden\":false,\"type\":\"heading\"}],\"id\":\"20a41ed9-1580-44b2-8e33-4d6934335008\",\"width\":\"1\\\/1\"}],\"id\":\"ab67a2b6-a12d-4415-bd75-c88759eaf6a5\"},{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"columnwidth\":\"\",\"tabletwidth\":\"\",\"mobilewidth\":\"\",\"columnheight\":\"\",\"columnminheight\":\"\",\"columnmaxheight\":\"\",\"textalign\":\"\",\"textaligntablet\":\"\",\"textalignmobile\":\"\",\"textsize\":\"\",\"texttransform\":\"\",\"textwrapping\":\"\",\"columnstyle\":\"none\",\"columncardsize\":\"\",\"columncardhover\":\"false\",\"columncardcolor\":\" uk-card-default\",\"columntile\":\"\",\"columnbackground\":\"\",\"columntextcolor\":\" uk-light\",\"backgroundstyle\":\"color\",\"backgroundimage\":[],\"backgroundimageposition\":\" uk-background-center-center\",\"backgroundimagesize\":\" uk-background-cover\",\"backgroundimagerepeat\":\" no-repeat\",\"backgroundparalax\":\"\",\"mediavideosource\":\"url\",\"mediavideo\":[],\"mediavideourl\":\"\",\"backgroundoverlaycolor\":\"rgba(0,0,0,0.3)\",\"backgroundgradientoverlay\":\"false\",\"backgroundgradienttransition\":\"\",\"backgroundoverlaycolor2\":\"rgba(0,0,0,0.3)\",\"columnpadding\":\"\",\"itemfirst\":\"\",\"itemlast\":\"\",\"borderrounded\":\"false\",\"columnshadow\":\"\",\"columnclass\":\"\",\"columnid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"true\",\"animationtype\":\"uk-animation-slide-bottom-small\",\"animationdelay\":300},\"id\":\"e3bac264-8bdb-4a0a-a9fa-bea141fd9303\",\"isHidden\":false,\"type\":\"z-column\"},{\"content\":{\"text\":\"<p>Wir sind modern, famili&auml;r gef&uuml;hrt, pers&ouml;nlich, interdisziplin&auml;r und wir verstehen unseren Beruf als Berufung. Dabei stehen Sie als Mensch im Mittelpunkt. Wir k&uuml;mmern uns mit Empathie individuell um Ihre Bed&uuml;rfnisse.<\\\/p>\\n<p>Die Medizin hat sich durch die Forschung und den Einsatz von hochmoderner Technologie besonders in den letzten Jahren extrem weiterentwickelt. Die Diagnosen werden f&uuml;r die PatientInnen immer detaillierter und die Behandlungsm&ouml;glichkeiten meist noch komplexer. Hierf&uuml;r haben wir auf der einen Seite ein Team aus SpezialistInnen und Fach&auml;rztInnen, die sehr gut ausgebildet und mit den modernsten Ger&auml;ten ausgestattet sind.<\\\/p>\\n<p>Als Herzst&uuml;ck der Praxen haben wir auf der anderen Seite die AllgemeinmedizinerInnen und haus&auml;rztliche InternistInnen. Sie sind durch eine breite Ausbildung und viel Erfahrung in der Lage den &Uuml;berblick &uuml;ber Beschwerden, Krankheiten und die Medikation zu behalten. Sie leiten und f&uuml;hren Sie, bei ihnen laufen alle F&auml;den zusammen.<\\\/p>\\n<p>Beschwerden und Krankheiten lassen sich nur selten auf ein einzelnes Organ begrenzen &ndash; Schwindel, Brust- oder Bauchschmerzen, Luftnot und Ersch&ouml;pfung sind hier nur einige Beispiele. Insofern ist uns der interdisziplin&auml;re Ansatz unserer Praxen sehr wichtig. Bei uns sind alle Haus &ndash; und Fach&auml;rztInnen eng vernetzt, so dass hier keine L&uuml;cke an Informationen oder einer verz&ouml;gerten Diagnostik entsteht, aber auch keine Doppeluntersuchungen.<\\\/p>\\n<p>Unsere Leistungen erg&auml;nzen wir mit einem tiefgreifenden Netzwerk zu den Chef&auml;rztInnen der besten Kliniken in Hamburg und gleichzeitig zu den umgebenden Haus- und Fach&auml;rztInnen, die wir sehr sch&auml;tzen.<\\\/p>\\n<p>Einer unserer Grunds&auml;tze ist, dass wir viel lieber Pr&auml;vention betreiben, um die Lebensqualit&auml;t unserer PatientInnen zu erhalten oder zu verbessern. Je fr&uuml;her jeder Mensch beginnt seinen Gesundheitsstatus analysieren zu lassen, desto besser k&ouml;nnen wir in allen Lebensphasen die gesunde Lebensspanne erhalten oder verl&auml;ngern.<\\\/p>\\n<p>Zu guter Letzt m&ouml;chte ich betonen, dass alles was die Klinischen Praxen heute ausmachen auf der Medizin und der Struktur begr&uuml;ndet ist, die Frau Dr. Tchorsch, Frau Dr. Manchot und mein Vater Dr. Lange-Manchot &uuml;ber die letzten 40 Jahre erschaffen haben. Ich danken allen dreien zutieftst f&uuml;r dieses Fundament und f&uuml;r ihr gro&szlig;es Engagement auch jetzt an jedem einzelnen Tag und bei jedem Patienten. Ich hoffe, es wird noch lange bestehen.<\\\/p>\\n<p>Ihr Dr. Maximilian Lange<\\\/p>\"},\"id\":\"7f4a8d8f-0d3a-489e-80bd-7c7234490997\",\"isHidden\":false,\"type\":\"tinymce\"}],\"id\":\"cc463b11-ca07-4194-a63a-41f1c6821a68\",\"width\":\"1\\\/1\"}],\"id\":\"19aa7fab-faa1-452d-9250-d5f30914d376\"}]","title":"Einleitung"},"id":"0fb674c1-4ec2-47e6-9ff5-527699fa6189","isHidden":false,"type":"subgrid"}],"id":"d0fa7de9-ccb9-4914-b61d-4ac331c44dbc","width":"1\/1"}],"id":"733e3cc4-e846-4b16-b617-140a30504db4"},{"attrs":{"gridwidth":"uk-container uk-container-medium","tabletwidth":"","mobilewidth":"","columnsverticalalign":"","columnshorizontalalign":"","containerexpand":"","columngap":"","columnsdivider":"false","gridmasonry":"false","gridparallax":"false","sectiontoggle":"true","sectionsize":" uk-section-small","sectioncolor":" uk-section-default","sectionremovepadding":"","backgroundstyle":"color","backgroundimage":[],"mediavideosource":"url","mediavideo":[],"mediavideourl":"","backgroundimageposition":" uk-background-center-center","backgroundimagesize":" uk-background-cover","backgroundimagerepeat":" no-repeat","sectiontextcolor":" uk-light","backgroundoverlaycolor":"rgba(0,0,0,0.3)","backgroundgradientoverlay":"false","backgroundgradienttransition":"","backgroundoverlaycolor2":"rgba(0,0,0,0.3)","backgroundparalax":"","shapedividertoggle":"false","shapedivider":"","shapedividerposition":"","shapedividercolor":"#ffffff","customshapedivider":"","shapedividerheight":"150px","preservecolor":"false","sectionclass":"","sectionid":"","hidden":"","visible":"","animationswitch":"false","animationtype":"","animationdelay":null},"columns":[{"blocks":[{"content":{"subgrid":"[{\"attrs\":{\"columnsverticalalign\":\"\",\"columnshorizontalalign\":\"\",\"columngap\":\"\",\"columnsdivider\":\"false\",\"gridmasonry\":\"false\",\"gridparallax\":\"false\",\"sectionclass\":\"\",\"sectionid\":\"\",\"hidden\":\"\",\"visible\":\"\",\"animationswitch\":\"false\",\"animationtype\":\"\",\"animationdelay\":null},\"columns\":[{\"blocks\":[{\"content\":{\"text\":\"<h2>Unsere Geschichte<\\\/h2>\"},\"id\":\"29eebf2b-a1c4-4891-a6bd-61beea7fdf86\",\"isHidden\":false,\"type\":\"tinymce\"},{\"content\":{\"videosource\":\"upload\",\"videofile\":[\"file:\\\/\\\/qW6TCuRgzyWHLM57\"],\"url\":\"\",\"caption\":\"\",\"poster\":[\"file:\\\/\\\/PRKM0a8dTdXIkMnz\"]},\"id\":\"c52b6f81-f062-4684-9d7a-e69bd3e99156\",\"isHidden\":false,\"type\":\"video\"}],\"id\":\"b0cb03b1-2c35-4b5b-9572-fb0a83b44e43\",\"width\":\"1\\\/1\"}],\"id\":\"89d7b4d7-09a7-4c48-8554-ee6b8f47ffe7\"}]","title":"Unsere Geschichte"},"id":"433c4c1c-f04c-4003-8345-984f5f956aa3","isHidden":false,"type":"subgrid"}],"id":"4dd32630-09cf-4001-bb8b-c6f329575334","width":"1\/1"}],"id":"de621327-0bcc-4591-b873-abc10512509e"}]
+
+----
+
+Disallowsubmenu: false
+
+----
+
+Newtab: false
+
+----
+
+Menuitemicon: 
+
+----
+
+Megamenu: false
+
+----
+
+Megamenuwidth: 
+
+----
+
+Megamenuitemwidth: 
+
+----
+
+Megamenubackground: false
+
+----
+
+Megamenubackgroundimage: 
+
+----
+
+Megamenubackgroundimageposition: uk-background-center-center
+
+----
+
+Megamenubackgroundimagesize: uk-background-cover
+
+----
+
+Megamenubackgroundimagerepeat: no-repeat
+
+----
+
+Megamenubackgroundoverlaycolor: rgba(0,0,0,0.3)
+
+----
+
+Megamenubackgroundgradientoverlay: false
+
+----
+
+Megamenubackgroundgradienttransition: 
+
+----
+
+Megamenubackgroundoverlaycolor2: rgba(0,0,0,0.3)
+
+----
+
+Transparentnavbar: 
+
+----
+
+Navbarinverse: false
+
+----
+
+Headersection: true
+
+----
+
+Alttitle: 
+
+----
+
+Intro: 
+
+----
+
+Headerbackgroundtoggle: true
+
+----
+
+Header: - file://SamLWh3zXnKBfhQu
+
+----
+
+Headerimageposition: uk-background-center-center
+
+----
+
+Headerimagesize: uk-background-cover
+
+----
+
+Headerimagerepeat: no-repeat
+
+----
+
+Headertextcolor: uk-light
+
+----
+
+Headeroverlaycolor: #a1505a
+
+----
+
+Backgroundparalax: paralaxY
+
+----
+
+Shapedividertoggle: false
+
+----
+
+Shapedivider: 
+
+----
+
+Shapedividerposition: 
+
+----
+
+Shapedividercolor: #ffffff
+
+----
+
+Customshapedivider: 
+
+----
+
+Shapedividerheight: 150px
+
+----
+
+Metafile: 
+
+----
+
+Sitemap: true
+
+----
+
+Metatitle: 
+
+----
+
+Metadescription: 
+
+----
+
+Uuid: 1mzN7Q5EuoK8dWWV

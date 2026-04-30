@@ -1,0 +1,9 @@
+Uuid: 8uuBMd65tsNtjpTU
+
+----
+
+Template: video
+
+----
+
+Sitemap: true

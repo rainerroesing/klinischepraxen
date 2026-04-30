@@ -1,0 +1,9 @@
+Uuid: W17a3OobE244NDe1
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

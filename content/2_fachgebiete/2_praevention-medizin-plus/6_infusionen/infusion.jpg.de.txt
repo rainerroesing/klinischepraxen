@@ -1,0 +1,9 @@
+Uuid: Y8K1RSAK0ripbLbZ
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

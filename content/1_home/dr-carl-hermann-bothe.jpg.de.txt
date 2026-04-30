@@ -1,0 +1,33 @@
+Caption: Dr. Carl-Hermann Bothe
+
+----
+
+Harry: Gastroenterologe
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sitemap: true
+
+----
+
+Uuid: Yji6Cn1eOQrvP5Kv
+
+----
+
+Template: image

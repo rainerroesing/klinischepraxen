@@ -1,0 +1,9 @@
+Uuid: MbsWAfLld08e7D6u
+
+----
+
+Template: image
+
+----
+
+Sitemap: true

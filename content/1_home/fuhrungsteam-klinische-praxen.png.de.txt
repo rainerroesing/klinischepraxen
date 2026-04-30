@@ -1,0 +1,9 @@
+Uuid: 16pbGbKWsceCKPRP
+
+----
+
+Template: image
+
+----
+
+Sitemap: true
