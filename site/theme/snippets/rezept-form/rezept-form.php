@@ -9,6 +9,16 @@
     <p><?= $alert['error'] ?></p>
 </div>
 <?php endif ?>
+<style>
+  /* Safari: center date text vertically without changing horizontal alignment */
+  #geburtsdatum.uk-input::-webkit-datetime-edit {
+    display: inline-flex;
+    align-items: center;
+    height: 100%;
+    color: #000;
+    -webkit-text-fill-color: #000;
+  }
+</style>
 <form class="uk-grid-small " method="post" action="<?= $page->url() ?><?php e($page->isHomePage(), '/') ?>#rezept" uk-grid>
     <div class="tm-hon">
         <input type="checkbox" name="contact_me_by_fax_only" value="1" tabindex="-1" autocomplete="off">
@@ -26,7 +36,7 @@
         <label for="email">
           <?= $site->labelEmail()->html() ?> <abbr title="Pflichtfeld">*</abbr>
         </label>
-        <input class="uk-input" type="email" id="email" name="email" placeholder="Ihre E-mail" value="<?= esc($data['email'] ?? '') ?>" required>
+        <input class="uk-input" type="email" id="email" name="email" placeholder="Ihre E-Mail" value="<?= esc($data['email'] ?? '') ?>" required>
         <?= isset($alert['email']) ? '<span class="uk-text-danger">' . html($alert['email']) . '</span>' : '' ?>
     </div>
     <div class="uk-width-1-5@s">
